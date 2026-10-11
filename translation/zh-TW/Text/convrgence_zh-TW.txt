@@ -1,0 +1,50 @@
+// CONVRGENCE 繁體中文 — 試水溫批次（主選單 + 幾條長文字）
+// 格式：英文原文=繁體中文   換行寫成字面的 \n
+// 全量翻譯完成前，未列出的文字會維持英文。
+
+Play=開始遊戲
+New Game=新遊戲
+Continue=繼續
+Resume=繼續遊戲
+Settings=設定
+Controls=操作
+Language=語言
+Volume=音量
+Credits=製作名單
+Tutorial=教學關
+Back=返回
+Save=儲存
+Yes=是
+No=否
+Ok=確定
+Quit=離開
+Quit Game=離開遊戲
+Quit to Main Menu=回主選單
+Save & Quit Game=存檔並離開
+Save & Quit to Main Menu=存檔並回主選單
+
+Difficulty=難度
+Difficulty: Easy=難度：簡單
+Difficulty: easy=難度：簡單
+Difficulty: Medium=難度：普通
+Difficulty: unknown=難度：未知
+Difficulty: Hard\nReputation 2 required=難度：困難\n需要聲望 2
+Difficulty: hard\nReputation 2 required=難度：困難\n需要聲望 2
+Difficulty: Nightmare\nReputation 2 required=難度：惡夢\n需要聲望 2
+
+SOUND ON=音效開
+SOUND OFF=音效關
+Sound ON=音效開
+Sound OFF=音效關
+
+Exit the Raid=結束出擊
+Back to the Hideout=回藏身處
+No companion=不帶夥伴
+Raid location:\nCompanion:\nTime:=出擊地點：\n夥伴：\n時間：
+HIDEOUT UPGRADES..................=藏身處升級..................
+
+Are you sure you want to\nfinish the tutorial?\n=確定要結束教學關嗎？\n
+Are you sure you want to reset \nthe save data?\nThis will also affect the selected settings.\n=確定要重置存檔嗎？\n你選的設定也會一起被清掉。\n
+Visit the Vehicle Workshop \n(hideout)=去一趟車輛工坊 \n（藏身處）
+FIND THE MISSING HUNTER\n(GARAGE COOP LOCATION)=找出失蹤的獵人\n（車庫合作社）
+FIND Evglevsky\n(HIDEOUT)=找到 Evglevsky\n（藏身處）

@@ -1,0 +1,104 @@
+// CONVRGENCE 繁體中文 — 批次 09：對白（米佳 / 士兵）
+
+<alpha\=#88><b>Soldier:<alpha\=#FF></b> So, here's the deal. The scientists are prepping for some kind of expedition down in the underground. But, uh... let's just say they're not in a rush to go first. Apparently, the place is pitch-black, creepy sounds, whole nine yards - you get the picture.\n\n\n\n=<alpha\=#88><b>士兵:<alpha\=#FF></b> 事情是這樣的。那些科學家在準備某種地下探勘行動。不過呢……這麼說吧，他們不太想當第一個下去的。聽說那下面伸手不見五指，還有詭異的聲音，一應俱全——你懂那種感覺。\n\n\n\n
+<alpha\=#88><b>Soldier:<alpha\=#FF></b> Damn, look at that gear. You look like someone who knows their way around trouble. Just the kind of hunter I need. Handle this job right, and I'll cut you in on something real rare - straight from military stockpiles.\n\n\n\n=<alpha\=#88><b>士兵:<alpha\=#FF></b> 靠，看看你那身裝備。你看起來像是很懂怎麼應付麻煩的人。正是我需要的那種獵人。這件事辦好，我分你一樣真正稀有的東西——直接從軍方庫存出來的。\n\n\n\n
+<alpha\=#88><b>Soldier:<alpha\=#FF></b> Damn those two egg-headed lunatics! How the hell did they manage to bring a live demon onto the base?! When Gromov finds out who was involved, they'll line everyone up against the wall. Mark my words, hunter!\n\n=<alpha\=#88><b>士兵:<alpha\=#FF></b> 那兩個死書呆子瘋了嗎！他們到底是怎麼把一隻活的惡魔弄進基地的？！等格羅莫夫查出是誰幹的，所有人都會被排成一排槍斃。記住我這句話，獵人！\n\n
+<alpha\=#88><b>Soldier:<alpha\=#FF></b> They want someone to scout it first. I mean, I'd go myself, but... well, I've got other priorities right now. Important stuff. Yeah. Anyway, if you're up for it - there's a solid reward in it for you.\n\n\n\n=<alpha\=#88><b>士兵:<alpha\=#FF></b> 他們想找人先去偵察。我是說，我自己也可以去啦，不過……唉，我現在有別的優先事項。重要的事。對。總之，你要是願意——報酬很實在。\n\n\n\n
+<alpha\=#88><b>Soldier:<alpha\=#FF></b> Well damn if it isn't the legend himself. I saw the kind of havoc you're wreaking out there and thought I'd give it a shot. Conquer my fear, head into the tunnels. But... yeah, didn't end too well.\n\n\n\n=<alpha\=#88><b>士兵:<alpha\=#FF></b> 我的天，這不是傳說本人嗎。我看到你在外面搞出的那些名堂，想說我也來試試。克服恐懼，走進隧道。結果……嗯，下場不太好看。\n\n\n\n
+<alpha\=#88><b>Soldier:<alpha\=#FF></b> What's taken so long? Thought I sent you, not a funeral procession. Anyway - forget it. I'll handle the report.\nYou do me a favor in the meanwhile: bring me a demon flesh.\n\n=<alpha\=#88><b>士兵:<alpha\=#FF></b> 怎麼拖這麼久？我派出去的是你，不是送葬隊伍吧。算了——不提了。報告我來寫。\n你順便幫我個忙：帶一塊惡魔的肉回來。\n\n
+<alpha\=#88><b>Soldier:<alpha\=#FF></b> Scientists say those bastards are spreading biomass to claim territory. Supposedly, burning those clusters back might make them retreat. Sounds nuts, but worth a try.\n\n=<alpha\=#88><b>士兵:<alpha\=#FF></b> 科學家說那些混帳在散布生物質來占領地盤。據說把那些聚集處燒掉，牠們可能會退。聽起來很扯，但值得一試。\n\n
+<alpha\=#88><b>Mityai:<alpha\=#FF></b> Name's Mityai, by the way. If you ever need a place to wet your throat or catch your breath after a rough raid - my doors are open. Always glad to see folks drop by.\r=<alpha\=#88><b>米佳:<alpha\=#FF></b> 對了，我叫米佳。以後想潤潤喉嚨，或是出擊完想喘口氣——我這門永遠開著。有人來我都高興。\r
+<alpha\=#88><b>Soldier:<alpha\=#FF></b> But keep in mind - some areas are home to demons. A UV flash from your flashlight can save your life, but it's best not to take risks without careful preparation.\n\n=<alpha\=#88><b>士兵:<alpha\=#FF></b> 不過記住——有些區域是惡魔的地盤。手電筒的紫外線閃光能救你一命，但沒有充分準備最好別冒險。\n\n
+<alpha\=#88><b>Soldier:<alpha\=#FF></b> Ah, crap... I forgot to mention - it needs to be undamaged. This one's shredded to hell. Can't use it. Bring me a clean sample, alright? Sorry about that.\n\n\n=<alpha\=#88><b>士兵:<alpha\=#FF></b> 啊，糟了……我忘了說——那東西必須是完整的。這塊被撕爛了。不能用。再帶個乾淨的樣本來，好嗎？抱歉啊。\n\n\n
+<alpha\=#88><b>Soldier:<alpha\=#FF></b> Now that's what I'm talking about! Handled it like a pro!\r\nLook... truth is, I wasn't gonna go back in there myself. \nPlace gives me the creeps.\r\n\n\n\n=<alpha\=#88><b>士兵:<alpha\=#FF></b> 這才是我要的！處理得跟專業的一樣！\r\n說真的……老實講，我本來就沒打算自己再進去。 \n那地方讓我發毛。\r\n\n\n\n
+<alpha\=#88><b>Soldier:<alpha\=#FF></b> Hey, don't give me that look - deal's a deal, right? \nI kept my word. Here, take the flamethrower. You'll need it more than I ever will.\r\n\n\n=<alpha\=#88><b>士兵:<alpha\=#FF></b> 欸，別用那種眼神看我——說好就是說好，對吧？ \n我守信用了。拿去，噴火器給你。你會比我更用得上。\r\n\n\n
+<alpha\=#88><b>Mityai:<alpha\=#FF></b> Tell you what: since you're fast on your feet, maybe you could help me out and scrounge up some tools? Would save me a heap of trouble.\n\n\n=<alpha\=#88><b>米佳:<alpha\=#FF></b> 這樣吧：你腳程快，要不要幫我張羅一些工具？那能幫我省下一堆麻煩。\n\n\n
+<alpha\=#88><b>Soldier:<alpha\=#FF></b> Should've never gone into that goddamn bunker. How do you even handle those demons alone? What, no answer? \nA secret? Fair enough...\n\n\n=<alpha\=#88><b>士兵:<alpha\=#FF></b> 我就不該走進那個該死的地堡。你到底怎麼一個人應付那些惡魔的？怎麼，不回答？ \n是祕密喔？也行……\n\n\n
+<alpha\=#88><b>Mityai:<alpha\=#FF></b> Ha! Word gets around, hunter! \nYou oughta stop by sometime and tell us the whole story. Best moonshine and grub are on the house!=<alpha\=#88><b>米佳:<alpha\=#FF></b> 哈！消息傳得很快啊獵人！ \n有空該過來把整件事講給我們聽。最好的私釀跟飯菜都算我的！
+<alpha\=#88><b>Soldier:<alpha\=#FF></b> The weapons techs are dying to test some new mixtures. I promise - that's the last thing I ask. Bring it in, and we're square.\n\n=<alpha\=#88><b>士兵:<alpha\=#FF></b> 武器技師們急著想測試一些新的混合燃料。我保證——這是我最後一次拜託你。帶回來，我們就兩清。\n\n
+<alpha\=#88><b>Soldier:<alpha\=#FF></b> Good luck! Remember, the zone is unpredictable - familiar places can change with each visit, so stay ready for surprises.\n\n\n\n=<alpha\=#88><b>士兵:<alpha\=#FF></b> 祝好運！記住，禁區是無法預測的——熟悉的地方每次去都可能變樣，隨時準備好面對意外。\n\n\n\n
+<alpha\=#88><b>Mityai:<alpha\=#FF></b> Ah, that's Murzik. Keeps the mice away better than any trap! Picked him up in the Zone once - poor thing was skin and bones.=<alpha\=#88><b>米佳:<alpha\=#FF></b> 啊，那是穆爾濟克。牠抓老鼠比任何捕鼠器都強！以前在禁區撿到的——那時候瘦得只剩皮包骨。
+<alpha\=#88><b>Mityai:<alpha\=#FF></b> Like the bar? Would've taken me ages to get it running without your help - so cheers for that, from the bottom of my heart.\r=<alpha\=#88><b>米佳:<alpha\=#FF></b> 喜歡這間酒吧嗎？沒有你幫忙，我大概要弄上好久才開得起來——真的，打從心底謝謝你。\r
+<alpha\=#88><b>Mityai:<alpha\=#FF></b> Oh, and one more thing: if you stumble on some grub or a bottle or two out there - bring 'em here. I pay better than most.\r=<alpha\=#88><b>米佳:<alpha\=#FF></b> 喔對了還有一件事：要是你在外面撿到吃的、或一兩瓶酒——帶來我這。我出的價比大部分人好。\r
+<alpha\=#88><b>Soldier:<alpha\=#FF></b> Ah, you made it back in one piece - so it couldn't have been that bad. Good, one less headache. Now, onto the demons.\n\n=<alpha\=#88><b>士兵:<alpha\=#FF></b> 啊，你全身而退回來了——那看來也沒那麼糟。很好，少一件煩心事。接下來，換惡魔的事。\n\n
+<alpha\=#88><b>Mityai:<alpha\=#FF></b> Just gimme a bit to clean up, patch \na few holes - then the doors'll be wide open. \nCome back soon, yeah?\n=<alpha\=#88><b>米佳:<alpha\=#FF></b> 給我一點時間打掃、補 \n幾個洞——然後就會大門敞開。 \n早點再來，好嗎？\n
+<alpha\=#88><b>Soldier:<alpha\=#FF></b> How's it going? If you're short on firepower, you can pick up some Molotovs at the Armory. Just sayin'.\n=<alpha\=#88><b>士兵:<alpha\=#FF></b> 進展如何？火力不夠的話，可以去軍械庫拿些燃燒瓶。我只是提一下。\n
+<alpha\=#88><b>Soldier:<alpha\=#FF></b> Why are you slacking off? This isn't \na resort. Get moving and head to the trader. \nHe'll brief you.\r\n\n\n=<alpha\=#88><b>士兵:<alpha\=#FF></b> 你在混什麼？這裡不是 \n度假村。動起來，去找商人。 \n他會跟你說明。\r\n\n\n
+<alpha\=#88><b>Mityai:<alpha\=#FF></b> I get it, you're itching for a drink - who ain't? But I'm still knee-deep in repairs, damn this place.\n\n=<alpha\=#88><b>米佳:<alpha\=#FF></b> 我懂，你想喝一杯——誰不想？不過我還深陷在整修裡，這鬼地方。\n\n
+<alpha\=#88><b>Mityai:<alpha\=#FF></b> Now that's what I'm talkin' about! With this lot, I'll finally whip this dump into shape.\n=<alpha\=#88><b>米佳:<alpha\=#FF></b> 這才是我要的！有了這批東西，我終於能把這破地方整頓起來了。\n
+<alpha\=#88><b>Mityai:<alpha\=#FF></b> When was the last time you ate properly? Cheeks all sunken... oh wait, that's a gas mask.=<alpha\=#88><b>米佳:<alpha\=#FF></b> 你上次好好吃飯是什麼時候？臉頰都凹進去了……喔等等，那是防毒面具。
+<alpha\=#88><b>Soldier:<alpha\=#FF></b> Hey, rookie! Take a look at the zone map. You can use it to choose your raid location.\n=<alpha\=#88><b>士兵:<alpha\=#FF></b> 欸，菜鳥！看一下禁區地圖。你可以用它來選出擊地點。\n
+<alpha\=#88><b>Mityai:<alpha\=#FF></b> Wouldn't recommend this one for a hangover - might send you to the grave faster.\n=<alpha\=#88><b>米佳:<alpha\=#FF></b> 這瓶我不建議拿來解宿醉——搞不好會讓你更快進棺材。\n
+<alpha\=#88><b>Mityai:<alpha\=#FF></b> And look at this rascal now - full of himself! Acting like he owns the place.=<alpha\=#88><b>米佳:<alpha\=#FF></b> 你看這小壞蛋現在的樣子——臭屁得很！好像這地方是牠開的。
+<alpha\=#88><b>Mityai:<alpha\=#FF></b> What're you twitchin' around for like a scared rat? Sit, catch your breath.=<alpha\=#88><b>米佳:<alpha\=#FF></b> 你在那邊抖什麼，像隻受驚的老鼠？坐下，喘口氣。
+<alpha\=#88><b>Mityai:<alpha\=#FF></b> Whoa there! Hold your horses! Where you think you're off to? Bar's closed!\n=<alpha\=#88><b>米佳:<alpha\=#FF></b> 欸欸欸！慢著！你以為你要去哪？酒吧沒開！\n
+<alpha\=#88><b>Soldier:<alpha\=#FF></b> Alright, stay if you want, but there's nothing interesting for you here.\n\n=<alpha\=#88><b>士兵:<alpha\=#FF></b> 好啦，想待就待著，不過這裡沒什麼你會有興趣的東西。\n\n
+<alpha\=#88><b>Mityai:<alpha\=#FF></b> What's the word on them tools? \nThat box ain't just for looks, you know.\r\n=<alpha\=#88><b>米佳:<alpha\=#FF></b> 那些工具有消息了嗎？ \n那個箱子可不是擺好看的。\r\n
+<alpha\=#88><b>Mityai:<alpha\=#FF></b> Not exactly gourmet, but it'll keep your guts from turning inside out.\n=<alpha\=#88><b>米佳:<alpha\=#FF></b> 算不上什麼美食，但至少能讓你的腸胃不翻過來。\n
+<alpha\=#88><b>Mityai:<alpha\=#FF></b> Make yourself at home, hunter - It's been too long, we've missed you.=<alpha\=#88><b>米佳:<alpha\=#FF></b> 別客氣，當自己家，獵人——好久不見了，大家都想你。
+<alpha\=#88><b>Soldier:<alpha\=#FF></b> How's my flamethrower, by the way?\nHope it's not gathering dust.\n\n\n\n=<alpha\=#88><b>士兵:<alpha\=#FF></b> 對了，我那把噴火器還好嗎？\n希望沒在積灰塵。\n\n\n\n
+<alpha\=#88><b>Soldier:<alpha\=#FF></b> Looks like we have a new recruit. Welcome to the hideout, hunter!\n\n=<alpha\=#88><b>士兵:<alpha\=#FF></b> 看來我們來了個新人。歡迎來到藏身處，獵人！\n\n
+<alpha\=#88><b>Mityai:<alpha\=#FF></b> Find anything yet? \nWell then, put it in there - work's waitin'.\r\n=<alpha\=#88><b>米佳:<alpha\=#FF></b> 找到什麼了嗎？ \n那就放進去吧——活還等著呢。\r\n
+<alpha\=#88><b>Mityai:<alpha\=#FF></b> So? You got somethin'? \nIf yes - drop it in the box already!\r\n\n=<alpha\=#88><b>米佳:<alpha\=#FF></b> 怎樣？有東西嗎？ \n有的話——就丟進箱子啊！\r\n\n
+<alpha\=#88><b>Mityai:<alpha\=#FF></b> That'll do. Worst case, I'll turn it into moonshine parts.\n\n\n\n\n=<alpha\=#88><b>米佳:<alpha\=#FF></b> 這樣就行。最差也能拿去當私釀器材的零件。\n\n\n\n\n
+<alpha\=#88><b>Mityai:<alpha\=#FF></b> What in hell would I need that for? I said food - bring food!\n=<alpha\=#88><b>米佳:<alpha\=#FF></b> 我要那玩意兒幹嘛？我說的是食物——帶食物來！\n
+<alpha\=#88><b>Mityai:<alpha\=#FF></b> Alright, off with ya! Come back alive - and bring trophies!\n\n=<alpha\=#88><b>米佳:<alpha\=#FF></b> 好啦，快走吧！活著回來——順便帶戰利品！\n\n
+<alpha\=#88><b>Mityai:<alpha\=#FF></b> Tch, get that junk outta here. I need supplies, not scrap!\n\n=<alpha\=#88><b>米佳:<alpha\=#FF></b> 嘖，把那堆廢鐵拿走。我要的是補給，不是廢料！\n\n
+<alpha\=#88><b>Soldier:<alpha\=#FF></b> Hey, hunter - got a moment? \nCome over here. Let's talk.\r\n\n=<alpha\=#88><b>士兵:<alpha\=#FF></b> 欸，獵人——有空嗎？ \n過來一下。我們聊聊。\r\n\n
+<alpha\=#88><b>Soldier:<alpha\=#FF></b> You! Soldier! \nYeah, you - mind coming here for a second?\r\n=<alpha\=#88><b>士兵:<alpha\=#FF></b> 你！大兵！ \n對，就是你——能過來一下嗎？\r\n
+<alpha\=#88><b>Mityai:<alpha\=#FF></b> Grab more while you can - crackers won't feed a man proper.=<alpha\=#88><b>米佳:<alpha\=#FF></b> 能拿就多拿一點——光吃餅乾餵不飽人的。
+<alpha\=#88><b>Soldier:<alpha\=#FF></b> So, what's the word? \nYou manage to scout that place yet?\n=<alpha\=#88><b>士兵:<alpha\=#FF></b> 所以，有消息了嗎？ \n那地方你偵察完了沒？\n
+<alpha\=#88><b>Mityai:<alpha\=#FF></b> Don't expect no fancy nonsense - just good old zone chow.\n=<alpha\=#88><b>米佳:<alpha\=#FF></b> 別指望什麼花俏東西——就是道地的禁區伙食。\n
+<alpha\=#88><b>Mityai:<alpha\=#FF></b> Same taste every time. But the adventures - those change.\n=<alpha\=#88><b>米佳:<alpha\=#FF></b> 每次都是同一個味道。不過那些冒險——那倒是每次都不一樣。\n
+<alpha\=#88><b>Mityai:<alpha\=#FF></b> Well I'll be - that's quite a haul you got there!\r\r\n\n\n\n\n=<alpha\=#88><b>米佳:<alpha\=#FF></b> 我的天——你這趟收穫可不小啊！\r\r\n\n\n\n\n
+<alpha\=#88><b>Mityai:<alpha\=#FF></b> Don't down it in one go, unless you like seeing stars.\n=<alpha\=#88><b>米佳:<alpha\=#FF></b> 別一口悶，除非你喜歡看到滿天星星。\n
+<alpha\=#88><b>Mityai:<alpha\=#FF></b> Hey! I was starting to think the Zone swallowed you up!=<alpha\=#88><b>米佳:<alpha\=#FF></b> 嘿！我還以為禁區把你吞了！
+<alpha\=#88><b>Mityai:<alpha\=#FF></b> Looks a bit rough, but it's edible. \nTested it myself.\n=<alpha\=#88><b>米佳:<alpha\=#FF></b> 看起來是有點糟，但能吃。 \n我自己試過了。\n
+<alpha\=#88><b>Mityai:<alpha\=#FF></b> Sweet mother of mercy - that's just what I needed!\n\n\n\n\n=<alpha\=#88><b>米佳:<alpha\=#FF></b> 我的老天爺——這正是我需要的！\n\n\n\n\n
+<alpha\=#88><b>Mityai:<alpha\=#FF></b> That's right! No use letting good food rot out there.\n=<alpha\=#88><b>米佳:<alpha\=#FF></b> 沒錯！好好的食物爛在外面多可惜。\n
+<alpha\=#88><b>Mityai:<alpha\=#FF></b> Well, that's one less thing to worry about out there!\n=<alpha\=#88><b>米佳:<alpha\=#FF></b> 好，那外面又少一件要煩的事了！\n
+<alpha\=#88><b>Mityai:<alpha\=#FF></b> You won't find this at Zakharich's, that's for sure!\n=<alpha\=#88><b>米佳:<alpha\=#FF></b> 這在扎哈里奇那邊絕對找不到，這點我敢保證！\n
+<alpha\=#88><b>Mityai:<alpha\=#FF></b> A fine day to you, hunter. Got anything good for me?=<alpha\=#88><b>米佳:<alpha\=#FF></b> 日安啊獵人。有什麼好東西要給我嗎？
+<alpha\=#88><b>Mityai:<alpha\=#FF></b> A raid without a proper meal is asking for trouble.\n=<alpha\=#88><b>米佳:<alpha\=#FF></b> 出擊前不好好吃一頓，等於自找麻煩。\n
+<alpha\=#88><b>Mityai:<alpha\=#FF></b> This brew hits just right. Just don't go overboard.\n=<alpha\=#88><b>米佳:<alpha\=#FF></b> 這一釀下喉剛剛好。不過別喝過頭。\n
+<alpha\=#88><b>Mityai:<alpha\=#FF></b> Huh. Almost like new! \nWhere'd you swipe it from?\n\n=<alpha\=#88><b>米佳:<alpha\=#FF></b> 咦。幾乎跟新的一樣！ \n你從哪摸來的？\n\n
+<alpha\=#88><b>Mityai:<alpha\=#FF></b> Living off crackers, huh? \nBet that gets old fast.\n=<alpha\=#88><b>米佳:<alpha\=#FF></b> 光靠餅乾過活喔？ \n那很快就會膩吧。\n
+<alpha\=#88><b>Mityai:<alpha\=#FF></b> Not bad. Solid shape. You got the receipt too?\n\n\n\n\n=<alpha\=#88><b>米佳:<alpha\=#FF></b> 不錯。狀況很好。收據也一起帶來了嗎？\n\n\n\n\n
+<alpha\=#88><b>Mityai:<alpha\=#FF></b> You won't last long out there without proper grub.\n=<alpha\=#88><b>米佳:<alpha\=#FF></b> 沒有像樣的伙食，你在外面撐不久的。\n
+<alpha\=#88><b>Mityai:<alpha\=#FF></b> I'll stash this for later. Might come in handy.\n\n=<alpha\=#88><b>米佳:<alpha\=#FF></b> 這我先收著，之後說不定用得上。\n\n
+<alpha\=#88><b>Mityai:<alpha\=#FF></b> There're still proper hunters out there, huh.\n\n\n\n=<alpha\=#88><b>米佳:<alpha\=#FF></b> 看來外面還是有像樣的獵人嘛。\n\n\n\n
+<alpha\=#88><b>Mityai:<alpha\=#FF></b> Safe travels - may the green light shine for ya.=<alpha\=#88><b>米佳:<alpha\=#FF></b> 路上平安——願綠燈為你亮著。
+<alpha\=#88><b>Soldier:<alpha\=#FF></b> Why are you just standing there? \nMove along!\n\n=<alpha\=#88><b>士兵:<alpha\=#FF></b> 你站在那邊幹嘛？ \n走開啦！\n\n
+<alpha\=#88><b>Mityai:<alpha\=#FF></b> Nope, brother. Go peddle that to someone else.\n=<alpha\=#88><b>米佳:<alpha\=#FF></b> 不行啊兄弟。那個拿去賣別人吧。\n
+<alpha\=#88><b>Mityai:<alpha\=#FF></b> Put that back. I only deal in food and drink.\n\n=<alpha\=#88><b>米佳:<alpha\=#FF></b> 放回去。我只做吃的跟喝的生意。\n\n
+<alpha\=#88><b>Mityai:<alpha\=#FF></b> Sip slow - or the devil'll dance in your guts!\n=<alpha\=#88><b>米佳:<alpha\=#FF></b> 慢慢喝——不然魔鬼會在你腸子裡跳舞！\n
+<alpha\=#88><b>Mityai:<alpha\=#FF></b> Be sure to come back! It's boring without ya!=<alpha\=#88><b>米佳:<alpha\=#FF></b> 一定要再來啊！你不在很無聊的！
+<alpha\=#88><b>Mityai:<alpha\=#FF></b> That was a damn good chat. Come back anytime!=<alpha\=#88><b>米佳:<alpha\=#FF></b> 剛才那段聊得真爽。隨時再來！
+<alpha\=#88><b>Mityai:<alpha\=#FF></b> Cheap and filling. Like the old mess halls.\n=<alpha\=#88><b>米佳:<alpha\=#FF></b> 便宜又管飽。跟以前的部隊食堂一樣。\n
+<alpha\=#88><b>Mityai:<alpha\=#FF></b> As they say - good enough for the Zone.\n\n\n\n=<alpha\=#88><b>米佳:<alpha\=#FF></b> 就像大家說的——以禁區的標準來說夠好了。\n\n\n\n
+<alpha\=#88><b>Mityai:<alpha\=#FF></b> This what I asked for? Looks kinda sus...\n\n=<alpha\=#88><b>米佳:<alpha\=#FF></b> 這是我要的東西嗎？看起來怪怪的……\n\n
+<alpha\=#88><b>Mityai:<alpha\=#FF></b> Clears the mind. And a bit of rust too.\n=<alpha\=#88><b>米佳:<alpha\=#FF></b> 通腦。順便通掉一點鏽。\n
+<alpha\=#88><b>Soldier:<alpha\=#FF></b> Well? Got anything worth showing off?\n=<alpha\=#88><b>士兵:<alpha\=#FF></b> 怎樣？有什麼值得拿出來炫的嗎？\n
+<alpha\=#88><b>Mityai:<alpha\=#FF></b> Hey! Don't dump your trash in my bar!\n=<alpha\=#88><b>米佳:<alpha\=#FF></b> 欸！別把你的垃圾倒在我酒吧裡！\n
+<alpha\=#88><b>Mityai:<alpha\=#FF></b> Now that's more like it, brother!\n\n\n\n\n=<alpha\=#88><b>米佳:<alpha\=#FF></b> 這才像話嘛，兄弟！\n\n\n\n\n
+<alpha\=#88><b>Mityai:<alpha\=#FF></b> If fate wills it - we'll meet again.\n=<alpha\=#88><b>米佳:<alpha\=#FF></b> 命運允許的話——我們還會再見。\n
+<alpha\=#88><b>Mityai:<alpha\=#FF></b> Just passin' through or got business?=<alpha\=#88><b>米佳:<alpha\=#FF></b> 只是路過，還是有事要談？
+<alpha\=#88><b>Mityai:<alpha\=#FF></b> Well, look who wandered in! Welcome!\n=<alpha\=#88><b>米佳:<alpha\=#FF></b> 哎喲，看看誰晃進來了！歡迎！\n
+<alpha\=#88><b>Mityai:<alpha\=#FF></b> Well I'll be damned, familiar face!=<alpha\=#88><b>米佳:<alpha\=#FF></b> 我的媽呀，熟面孔！
+<alpha\=#88><b>Mityai:<alpha\=#FF></b> Ah, some good company has arrived!=<alpha\=#88><b>米佳:<alpha\=#FF></b> 啊，來了個好夥伴！
+<alpha\=#88><b>Mityai:<alpha\=#FF></b> Alright, should be good enough...\n=<alpha\=#88><b>米佳:<alpha\=#FF></b> 好，這樣應該夠了……\n
+<alpha\=#88><b>Mityai:<alpha\=#FF></b> This beats dry crackers. Trust me.=<alpha\=#88><b>米佳:<alpha\=#FF></b> 這比乾餅乾好多了。相信我。
+<alpha\=#88><b>Mityai:<alpha\=#FF></b> Glad you swung by. I'm all ears.=<alpha\=#88><b>米佳:<alpha\=#FF></b> 很高興你過來。我洗耳恭聽。
+<alpha\=#88><b>Mityai:<alpha\=#FF></b> Hunger's no friend, brother.\n=<alpha\=#88><b>米佳:<alpha\=#FF></b> 餓肚子可不是朋友啊兄弟。\n
+<alpha\=#88><b>Mityai:<alpha\=#FF></b> It's strong - go easy on it!\n=<alpha\=#88><b>米佳:<alpha\=#FF></b> 這很烈——慢慢來！\n
+<alpha\=#88><b>Mityai:<alpha\=#FF></b> Would you look at that...\n\n\n\n=<alpha\=#88><b>米佳:<alpha\=#FF></b> 你看看這個……\n\n\n\n
+<alpha\=#88><b>Mityai:<alpha\=#FF></b> Good to see you, brother!\n=<alpha\=#88><b>米佳:<alpha\=#FF></b> 看到你真好，兄弟！\n
+<alpha\=#88><b>Mityai:<alpha\=#FF></b> Now that's a looker!\n\n\n=<alpha\=#88><b>米佳:<alpha\=#FF></b> 這個很漂亮啊！\n\n\n
+<alpha\=#88><b>Mityai:<alpha\=#FF></b> Swing by again, hunter!=<alpha\=#88><b>米佳:<alpha\=#FF></b> 再來啊，獵人！
+<alpha\=#88><b>Mityai:<alpha\=#FF></b> Go with luck, hunter.\r=<alpha\=#88><b>米佳:<alpha\=#FF></b> 祝你好運，獵人。\r
+<alpha\=#88><b>Mityai:<alpha\=#FF></b> 'Til next time, then.=<alpha\=#88><b>米佳:<alpha\=#FF></b> 那就下次見了。
+<alpha\=#88><b>Mityai:<alpha\=#FF></b> Not bad at all!\n\n\n\n=<alpha\=#88><b>米佳:<alpha\=#FF></b> 相當不錯！\n\n\n\n
+<alpha\=#88><b>Mityai:<alpha\=#FF></b> Take care, hunter!\n=<alpha\=#88><b>米佳:<alpha\=#FF></b> 保重，獵人！\n
+<alpha\=#88><b>Mityai:<alpha\=#FF></b> That went well!\n\n\n\n=<alpha\=#88><b>米佳:<alpha\=#FF></b> 進行得很順利！\n\n\n\n
+<alpha\=#88><b>Mityai:<alpha\=#FF></b> That'll do!\n=<alpha\=#88><b>米佳:<alpha\=#FF></b> 這樣就行！\n
+<alpha\=#88><b>Mityai:<alpha\=#FF></b> Keep well!=<alpha\=#88><b>米佳:<alpha\=#FF></b> 保重！

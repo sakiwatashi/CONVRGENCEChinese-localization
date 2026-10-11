@@ -1,0 +1,97 @@
+// CONVRGENCE 繁體中文 — 批次 12：對白（扎哈里奇 2/3）
+
+<alpha\=#88><b>Zakharich:<alpha\=#FF></b> Don't hesitate, take more. \nThese are survival essentials!=<alpha\=#88><b>扎哈里奇:<alpha\=#FF></b> 不用客氣，多拿一點。 \n這些是活命的必需品！
+<alpha\=#88><b>Zakharich:<alpha\=#FF></b> A real marksman always carries a backup mag.\n\n\n\n\n\n\n\n\n\n\n\n\n=<alpha\=#88><b>扎哈里奇:<alpha\=#FF></b> 真正的神射手身上一定有備用彈匣。\n\n\n\n\n\n\n\n\n\n\n\n\n
+<alpha\=#88><b>Zakharich:<alpha\=#FF></b> Don't toss the mag later - this stuff's rare!\n\n\n\n\n\n\n\n\n\n\n\n=<alpha\=#88><b>扎哈里奇:<alpha\=#FF></b> 彈匣用完別亂丟——這東西很稀有！\n\n\n\n\n\n\n\n\n\n\n\n
+<alpha\=#88><b>Zakharich:<alpha\=#FF></b> If you want to sell something - don't hesitate, sell it.\n=<alpha\=#88><b>扎哈里奇:<alpha\=#FF></b> 想賣東西就別猶豫，賣吧。\n
+<alpha\=#88><b>Zakharich:<alpha\=#FF></b> Ammo is like money - you can never have too much.\n\n\n\n\n\n\n=<alpha\=#88><b>扎哈里奇:<alpha\=#FF></b> 彈藥就像錢一樣——永遠不嫌多。\n\n\n\n\n\n\n
+<alpha\=#88><b>Zakharich:<alpha\=#FF></b> Solid piece! Take care of it, \nor it'll jam.\n\n\n\n\n\n\n\n\n\n\n\n=<alpha\=#88><b>扎哈里奇:<alpha\=#FF></b> 紮實的貨！好好保養， \n不然會卡彈。\n\n\n\n\n\n\n\n\n\n\n\n
+<alpha\=#88><b>Zakharich:<alpha\=#FF></b> What's with your catch? \nIs there something sweet here?\r=<alpha\=#88><b>扎哈里奇:<alpha\=#FF></b> 你這趟收穫怎樣？ \n有什麼好東西嗎？\r
+<alpha\=#88><b>Zakharich:<alpha\=#FF></b> A backup mag is always better than none.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n=<alpha\=#88><b>扎哈里奇:<alpha\=#FF></b> 有備用彈匣總比沒有好。\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
+<alpha\=#88><b>Zakharich:<alpha\=#FF></b> I'd join you, but you know, I have other stuff to do...=<alpha\=#88><b>扎哈里奇:<alpha\=#FF></b> 我也想跟你去，但你知道的，我還有別的事……
+<alpha\=#88><b>Zakharich:<alpha\=#FF></b> If you want to live longer, \npack your backpack wisely!=<alpha\=#88><b>扎哈里奇:<alpha\=#FF></b> 想活久一點， \n背包就要聰明地打包！
+<alpha\=#88><b>Zakharich:<alpha\=#FF></b> If you've got space, why not grab another?\n\n\n\n\n\n\n\n\n\n\n\n\n=<alpha\=#88><b>扎哈里奇:<alpha\=#FF></b> 還有空間的話，幹嘛不再拿一個？\n\n\n\n\n\n\n\n\n\n\n\n\n
+<alpha\=#88><b>Zakharich: <alpha\=#FF></b>Been looking for this one for \na long time. Thank you!=<alpha\=#88><b>扎哈里奇: <alpha\=#FF></b>這個我找了 \n很久了。謝謝你！
+<alpha\=#88><b>Zakharich:<alpha\=#FF></b> For a big raid, better take a \nfew extras.\n\n\n\n\n\n\n\n\n\n\n\n=<alpha\=#88><b>扎哈里奇:<alpha\=#FF></b> 要跑大場的話，最好多帶 \n幾個。\n\n\n\n\n\n\n\n\n\n\n\n
+<alpha\=#88><b>Zakharich:<alpha\=#FF></b> For those who like to make \nevery shot count.\n\n\n\n\n\n\n\n\n=<alpha\=#88><b>扎哈里奇:<alpha\=#FF></b> 給那些喜歡讓每一發 \n都算數的人。\n\n\n\n\n\n\n\n\n
+<alpha\=#88><b>Zakharich:<alpha\=#FF></b> Nice to see you! Come on, \ntell me where you've been?\r=<alpha\=#88><b>扎哈里奇:<alpha\=#FF></b> 看到你真好！來， \n說說你去了哪裡？\r
+<alpha\=#88><b>Zakharich:<alpha\=#FF></b> Sneakers and a tracksuit sold separately!\n\n\n\n\n\n\n\n\n\n\n\n\n=<alpha\=#88><b>扎哈里奇:<alpha\=#FF></b> 運動鞋跟運動服要另外買！\n\n\n\n\n\n\n\n\n\n\n\n\n
+<alpha\=#88><b>Zakharich:<alpha\=#FF></b> With this beauty, you'll rule the demons.\n\n\n\n\n\n\n\n\n\n\n\n\n=<alpha\=#88><b>扎哈里奇:<alpha\=#FF></b> 有這個寶貝，你就能主宰那些惡魔。\n\n\n\n\n\n\n\n\n\n\n\n\n
+<alpha\=#88><b>Zakharich:<alpha\=#FF></b> Grab a spare; you'll regret it otherwise.\n\n\n\n\n\n\n\n\n\n\n\n=<alpha\=#88><b>扎哈里奇:<alpha\=#FF></b> 拿個備用的吧，不然你會後悔。\n\n\n\n\n\n\n\n\n\n\n\n
+<alpha\=#88><b>Zakharich:<alpha\=#FF></b> The ultimate tool for quiet work\nin the dark.\n\n\n\n\n\n\n\n=<alpha\=#88><b>扎哈里奇:<alpha\=#FF></b> 在黑暗中安靜辦事的\n終極工具。\n\n\n\n\n\n\n\n
+<alpha\=#88><b>Zakharich:<alpha\=#FF></b> Ammo's like cash - satisfying \nto spend.\r\n\n\n\n\n\n\n\n\n\n\n=<alpha\=#88><b>扎哈里奇:<alpha\=#FF></b> 彈藥就像現金——花起來 \n特別爽。\r\n\n\n\n\n\n\n\n\n\n\n
+<alpha\=#88><b>Zakharich:<alpha\=#FF></b> I've got a fresh shipment in - \nwant to take a look?=<alpha\=#88><b>扎哈里奇:<alpha\=#FF></b> 我剛進了一批新貨—— \n要不要看看？
+<alpha\=#88><b>Zakharich:<alpha\=#FF></b> Looks like artifacts in the Zone \nwill soon run out!=<alpha\=#88><b>扎哈里奇:<alpha\=#FF></b> 照這樣下去，禁區裡的遺物 \n很快就要被挖光了！
+<alpha\=#88><b>Zakharich:<alpha\=#FF></b> Could've gone pricier, \nbut your call.\n\n\n\n\n\n\n\n\n\n\n\n\n=<alpha\=#88><b>扎哈里奇:<alpha\=#FF></b> 其實可以買更貴的， \n不過你決定。\n\n\n\n\n\n\n\n\n\n\n\n\n
+<alpha\=#88><b>Zakharich:<alpha\=#FF></b> Don't like noise, huh? Understandable.\n\n\n\n\n\n\n\n\n\n\n\n\n=<alpha\=#88><b>扎哈里奇:<alpha\=#FF></b> 不喜歡吵，是吧？可以理解。\n\n\n\n\n\n\n\n\n\n\n\n\n
+<alpha\=#88><b>Zakharich:<alpha\=#FF></b> Good price! Two guns... \nfor the price of two guns!=<alpha\=#88><b>扎哈里奇:<alpha\=#FF></b> 好價錢！兩把槍…… \n只要兩把槍的價錢！
+<alpha\=#88><b>Zakharich: <alpha\=#FF></b>The loot is good, but the condition is deplorable.=<alpha\=#88><b>扎哈里奇: <alpha\=#FF></b>貨是好貨，可惜狀況慘不忍睹。
+<alpha\=#88><b>Zakharich:<alpha\=#FF></b> Drop a few words \nin the feedback book if you can.=<alpha\=#88><b>扎哈里奇:<alpha\=#FF></b> 有空的話 \n在意見簿上寫幾句吧。
+<alpha\=#88><b>Zakharich:<alpha\=#FF></b> Finally! Thought nobody \nwanted this.\n\n\n\n\n\n\n\n\n\n\n\n\n=<alpha\=#88><b>扎哈里奇:<alpha\=#FF></b> 終於！我還以為沒人 \n要這個了。\n\n\n\n\n\n\n\n\n\n\n\n\n
+<alpha\=#88><b>Zakharich:<alpha\=#FF></b> Now that's what I call being prepared!\n\n\n\n\n\n\n\n\n\n\n\n=<alpha\=#88><b>扎哈里奇:<alpha\=#FF></b> 這才叫做準備充分！\n\n\n\n\n\n\n\n\n\n\n\n
+<alpha\=#88><b>Zakharich:<alpha\=#FF></b> Trying your hand at being a secret agent?\n\n\n\n\n\n\n\n\n=<alpha\=#88><b>扎哈里奇:<alpha\=#FF></b> 在試著當祕密探員嗎？\n\n\n\n\n\n\n\n\n
+<alpha\=#88><b>Zakharich:<alpha\=#FF></b> You'll need more pouches \nat this rate.\n\n\n\n\n\n\n\n\n\n\n=<alpha\=#88><b>扎哈里奇:<alpha\=#FF></b> 照這樣下去，你需要 \n更多彈袋了。\n\n\n\n\n\n\n\n\n\n\n
+<alpha\=#88><b>Zakharich:<alpha\=#FF></b> Good thinking: don't forget the essentials.\n\n\n\n\n\n=<alpha\=#88><b>扎哈里奇:<alpha\=#FF></b> 想得周到：別忘了必需品。\n\n\n\n\n\n
+<alpha\=#88><b>Zakharich:<alpha\=#FF></b> Got everything you need? \nDidn't forget anything?=<alpha\=#88><b>扎哈里奇:<alpha\=#FF></b> 需要的都拿齊了嗎？ \n沒有漏掉什麼吧？
+<alpha\=#88><b>Zakharich:<alpha\=#FF></b> Think twice: is one more worth it?\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n=<alpha\=#88><b>扎哈里奇:<alpha\=#FF></b> 再想一次：多拿一個真的值得嗎？\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
+<alpha\=#88><b>Zakharich:<alpha\=#FF></b> Don't forget to swap the batteries.\n\n\n\n\n\n\n\n\n\n\n\n\n=<alpha\=#88><b>扎哈里奇:<alpha\=#FF></b> 別忘了換電池。\n\n\n\n\n\n\n\n\n\n\n\n\n
+<alpha\=#88><b>Zakharich:<alpha\=#FF></b> Feel free to come by \nif you need anything else.=<alpha\=#88><b>扎哈里奇:<alpha\=#FF></b> 還需要什麼的話 \n儘管過來。
+<alpha\=#88><b>Zakharich:<alpha\=#FF></b> I see you're gearing up for another raid.\n\n\n\n\n\n\n=<alpha\=#88><b>扎哈里奇:<alpha\=#FF></b> 看來你又在準備下一趟出擊了。\n\n\n\n\n\n\n
+<alpha\=#88><b>Zakharich:<alpha\=#FF></b> Pristine condition - not a scratch!\n\n\n\n\n\n\n\n\n\n\n\n\n=<alpha\=#88><b>扎哈里奇:<alpha\=#FF></b> 全新狀態——一道刮痕都沒有！\n\n\n\n\n\n\n\n\n\n\n\n\n
+<alpha\=#88><b>Zakharich:<alpha\=#FF></b> Smart move - don't skimp on medical supplies!\n\n\n=<alpha\=#88><b>扎哈里奇:<alpha\=#FF></b> 明智之舉——醫療用品別省！\n\n\n
+<alpha\=#88><b>Zakharich:<alpha\=#FF></b> Your gun will be museum-worthy now!\n\n\n\n\n\n\n\n\n\n\n\n\n=<alpha\=#88><b>扎哈里奇:<alpha\=#FF></b> 你這把槍現在可以進博物館了！\n\n\n\n\n\n\n\n\n\n\n\n\n
+<alpha\=#88><b>Zakharich:<alpha\=#FF></b> Got some extra cash? \nI can help you with that.=<alpha\=#88><b>扎哈里奇:<alpha\=#FF></b> 手頭有閒錢？ \n那我可以幫你花掉。
+<alpha\=#88><b>Zakharich:<alpha\=#FF></b> Great choice - good for any range.\n\n\n\n\n\n\n\n\n\n\n\n\n=<alpha\=#88><b>扎哈里奇:<alpha\=#FF></b> 很好的選擇——任何距離都適用。\n\n\n\n\n\n\n\n\n\n\n\n\n
+<alpha\=#88><b>Zakharich:<alpha\=#FF></b> Great stuff - if you don't lose a limb first!\n\n=<alpha\=#88><b>扎哈里奇:<alpha\=#FF></b> 好東西——前提是你沒先少一隻手腳！\n\n
+<alpha\=#88><b>Zakharich:<alpha\=#FF></b> Making up for accuracy with volume?\n\n\n\n\n\n\n\n\n\n\n\n=<alpha\=#88><b>扎哈里奇:<alpha\=#FF></b> 準度不夠，用數量補是吧？\n\n\n\n\n\n\n\n\n\n\n\n
+<alpha\=#88><b>Zakharich:<alpha\=#FF></b> Take it, take it - you'll thank me later!\n\n\n\n\n\n=<alpha\=#88><b>扎哈里奇:<alpha\=#FF></b> 拿去拿去——你之後會謝我的！\n\n\n\n\n\n
+<alpha\=#88><b>Zakharich:<alpha\=#FF></b> Better a small fish than an empty dish, right?=<alpha\=#88><b>扎哈里奇:<alpha\=#FF></b> 有小魚總比空盤子好，對吧？
+<alpha\=#88><b>Zakharich:<alpha\=#FF></b> Come back if you need more \n- I've got plenty!=<alpha\=#88><b>扎哈里奇:<alpha\=#FF></b> 還要的話再回來 \n——我這多的是！
+<alpha\=#88><b>Zakharich:<alpha\=#FF></b> Don't mind the look; it is solid.\n\n\n\n\n\n\n\n\n\n\n\n\n=<alpha\=#88><b>扎哈里奇:<alpha\=#FF></b> 別看它外表；它很紮實。\n\n\n\n\n\n\n\n\n\n\n\n\n
+<alpha\=#88><b>Zakharich:<alpha\=#FF></b> No borrowing firepower these days.\n\n\n\n\n\n\n\n\n\n\n\n=<alpha\=#88><b>扎哈里奇:<alpha\=#FF></b> 這年頭火力可是借不到的。\n\n\n\n\n\n\n\n\n\n\n\n
+<alpha\=#88><b>Zakharich:<alpha\=#FF></b> Stingy hunters don't live long, \nam I right?\n\n=<alpha\=#88><b>扎哈里奇:<alpha\=#FF></b> 小氣的獵人活不久， \n我說得對吧？\n\n
+<alpha\=#88><b>Zakharich:<alpha\=#FF></b> You'd have a hard time without this on a raid.=<alpha\=#88><b>扎哈里奇:<alpha\=#FF></b> 出擊沒有這個你會很難過。
+<alpha\=#88><b>Zakharich:<alpha\=#FF></b> I see you've got a preference for quality.\n\n\n=<alpha\=#88><b>扎哈里奇:<alpha\=#FF></b> 看來你對品質是有要求的。\n\n\n
+<alpha\=#88><b>Zakharich:<alpha\=#FF></b> I'd grab a couple more, just to be sure.\n\n\n\n\n=<alpha\=#88><b>扎哈里奇:<alpha\=#FF></b> 我會再多拿兩個，保險起見。\n\n\n\n\n
+<alpha\=#88><b>Zakharich:<alpha\=#FF></b> Now you'll hit that demon's eye.\n\n\n\n\n\n\n\n\n\n\n\n\n=<alpha\=#88><b>扎哈里奇:<alpha\=#FF></b> 這下你能打中惡魔的眼睛了。\n\n\n\n\n\n\n\n\n\n\n\n\n
+<alpha\=#88><b>Zakharich:<alpha\=#FF></b> A perfect upgrade for your gun!\n\n\n\n\n\n\n\n\n\n\n\n\n=<alpha\=#88><b>扎哈里奇:<alpha\=#FF></b> 你那把槍的完美升級！\n\n\n\n\n\n\n\n\n\n\n\n\n
+<alpha\=#88><b>Zakharich:<alpha\=#FF></b> Got enough pouches for all that?\n\n\n\n\n\n\n\n\n\n\n\n=<alpha\=#88><b>扎哈里奇:<alpha\=#FF></b> 你的彈袋夠裝這些嗎？\n\n\n\n\n\n\n\n\n\n\n\n
+<alpha\=#88><b>Zakharich:<alpha\=#FF></b> Great choice! That will come in handy.\n\n\n\n\n\n=<alpha\=#88><b>扎哈里奇:<alpha\=#FF></b> 好選擇！那個會很有用。\n\n\n\n\n\n
+<alpha\=#88><b>Zakharich:<alpha\=#FF></b> Small, but better than nothing.\n\n\n\n\n\n\n\n\n\n\n\n\n=<alpha\=#88><b>扎哈里奇:<alpha\=#FF></b> 小歸小，總比沒有好。\n\n\n\n\n\n\n\n\n\n\n\n\n
+<alpha\=#88><b>Zakharich:<alpha\=#FF></b> There's a lot of demand for that these days.=<alpha\=#88><b>扎哈里奇:<alpha\=#FF></b> 這東西最近需求量很大。
+<alpha\=#88><b>Zakharich:<alpha\=#FF></b> Aim better and shoot to kill!\n\n\n\n\n\n\n\n\n\n\n\n\n\n=<alpha\=#88><b>扎哈里奇:<alpha\=#FF></b> 瞄準一點，一槍斃命！\n\n\n\n\n\n\n\n\n\n\n\n\n\n
+<alpha\=#88><b>Zakharich:<alpha\=#FF></b> Remember: no returns \nor exchanges!\r\n\n\n\n\n\n\n=<alpha\=#88><b>扎哈里奇:<alpha\=#FF></b> 記住：不退 \n也不換！\r\n\n\n\n\n\n\n
+<alpha\=#88><b>Zakharich:<alpha\=#FF></b> Respect! Perfect for a sidearm.\n\n\n\n\n\n\n\n\n\n\n\n=<alpha\=#88><b>扎哈里奇:<alpha\=#FF></b> 有眼光！當副武器剛剛好。\n\n\n\n\n\n\n\n\n\n\n\n
+<alpha\=#88><b>Zakharich:<alpha\=#FF></b> The more artifacts, \nthe more money, right?=<alpha\=#88><b>扎哈里奇:<alpha\=#FF></b> 遺物越多， \n錢就越多，對吧？
+<alpha\=#88><b>Zakharich:<alpha\=#FF></b> You're not making much with junk like this.=<alpha\=#88><b>扎哈里奇:<alpha\=#FF></b> 拿這種破爛你賺不了多少。
+<alpha\=#88><b>Zakharich:<alpha\=#FF></b>Powerful stuff, it's even \ngiving off steam!=<alpha\=#88><b>扎哈里奇:<alpha\=#FF></b>夠猛的東西，它甚至還在 \n冒煙！
+<alpha\=#88><b>Zakharich:<alpha\=#FF></b> No firing inside the hideout!\n\n\n\n\n\n\n\n\n\n\n\n\n=<alpha\=#88><b>扎哈里奇:<alpha\=#FF></b> 藏身處內禁止開火！\n\n\n\n\n\n\n\n\n\n\n\n\n
+<alpha\=#88><b>Zakharich:<alpha\=#FF></b> Oh, it's my favorite hunter! \nHow are you?=<alpha\=#88><b>扎哈里奇:<alpha\=#FF></b> 喔，我最喜歡的獵人！ \n你還好嗎？
+<alpha\=#88><b>Zakharich:<alpha\=#FF></b> Where'd you even dig this up? \nA landfill?=<alpha\=#88><b>扎哈里奇:<alpha\=#FF></b> 你到底從哪挖出這個的？ \n垃圾場嗎？
+<alpha\=#88><b>Zakharich:<alpha\=#FF></b> Yeah... that's definitely not \ngonna sell.=<alpha\=#88><b>扎哈里奇:<alpha\=#FF></b> 嗯……那個絕對 \n賣不掉。
+<alpha\=#88><b>Zakharich: <alpha\=#FF></b>How did you even get your hands on this?!=<alpha\=#88><b>扎哈里奇: <alpha\=#FF></b>你到底是怎麼弄到這個的？！
+<alpha\=#88><b>Zakharich:<alpha\=#FF></b> Hey there, hunter! \nLooking to stock up?\n=<alpha\=#88><b>扎哈里奇:<alpha\=#FF></b> 嘿獵人！ \n來補貨的嗎？\n
+<alpha\=#88><b>Zakharich:<alpha\=#FF></b> Not the best, not the worst.\n\n\n\n\n\n\n\n\n\n\n\n\n=<alpha\=#88><b>扎哈里奇:<alpha\=#FF></b> 不是最好的，也不是最差的。\n\n\n\n\n\n\n\n\n\n\n\n\n
+<alpha\=#88><b>Zakharich:<alpha\=#FF></b> Now that's an artifact, \na real artifact!=<alpha\=#88><b>扎哈里奇:<alpha\=#FF></b> 這才叫遺物， \n真正的遺物！
+<alpha\=#88><b>Zakharich:<alpha\=#FF></b> That's a good thing you found, well done!=<alpha\=#88><b>扎哈里奇:<alpha\=#FF></b> 你找到的是好東西，幹得好！
+<alpha\=#88><b>Zakharich:<alpha\=#FF></b> Use this extra space wisely!\n\n\n\n\n\n\n\n\n\n\n\n\n=<alpha\=#88><b>扎哈里奇:<alpha\=#FF></b> 這些多出來的空間好好利用！\n\n\n\n\n\n\n\n\n\n\n\n\n
+<alpha\=#88><b>Zakharich:<alpha\=#FF></b> A worthy mod for a true hunter.\n\n\n\n\n\n\n\n\n=<alpha\=#88><b>扎哈里奇:<alpha\=#FF></b> 配得上真正獵人的改裝件。\n\n\n\n\n\n\n\n\n
+<alpha\=#88><b>Zakharich:<alpha\=#FF></b> Better aim, better results.\n\n\n\n\n\n\n\n\n\n\n\n\n=<alpha\=#88><b>扎哈里奇:<alpha\=#FF></b> 瞄得準，結果就好。\n\n\n\n\n\n\n\n\n\n\n\n\n
+<alpha\=#88><b>Zakharich:<alpha\=#FF></b> Bigger backpack, more loot.\n\n\n\n\n\n\n\n\n\n\n\n\n=<alpha\=#88><b>扎哈里奇:<alpha\=#FF></b> 背包大一點，戰利品多一點。\n\n\n\n\n\n\n\n\n\n\n\n\n
+<alpha\=#88><b>Zakharich:<alpha\=#FF></b> Fresh batch, guaranteed no duds!\n\n\n\n\n\n\n\n=<alpha\=#88><b>扎哈里奇:<alpha\=#FF></b> 新到的一批，保證沒有啞彈！\n\n\n\n\n\n\n\n
+<alpha\=#88><b>Zakharich:<alpha\=#FF></b> Kept this one just for you.\n\n\n\n\n\n\n\n\n\n\n\n\n=<alpha\=#88><b>扎哈里奇:<alpha\=#FF></b> 這個我特地留給你的。\n\n\n\n\n\n\n\n\n\n\n\n\n
+<alpha\=#88><b>Zakharich:<alpha\=#FF></b> Makes your gun even cooler.\n\n\n\n\n\n\n\n\n\n\n\n\n=<alpha\=#88><b>扎哈里奇:<alpha\=#FF></b> 讓你的槍更帥。\n\n\n\n\n\n\n\n\n\n\n\n\n
+<alpha\=#88><b>Zakharich:<alpha\=#FF></b> Cheap now, costly later - don't skimp!\n=<alpha\=#88><b>扎哈里奇:<alpha\=#FF></b> 現在省，之後貴——別省這種錢！\n
+<alpha\=#88><b>Zakharich:<alpha\=#FF></b> Not sure anyone would even want this...=<alpha\=#88><b>扎哈里奇:<alpha\=#FF></b> 我不確定有沒有人會想要這個……
+<alpha\=#88><b>Zakharich:<alpha\=#FF></b> Trust me, one box won't cut it!\n\n\n\n\n\n\n\n=<alpha\=#88><b>扎哈里奇:<alpha\=#FF></b> 相信我，一盒絕對不夠！\n\n\n\n\n\n\n\n
+<alpha\=#88><b>Zakharich:<alpha\=#FF></b> Grab your insurance and hit the road!\n=<alpha\=#88><b>扎哈里奇:<alpha\=#FF></b> 保險買一買就上路吧！\n
+<alpha\=#88><b>Zakharich:<alpha\=#FF></b> Only the best from local producers!\n\n\n=<alpha\=#88><b>扎哈里奇:<alpha\=#FF></b> 全是本地生產的上等貨！\n\n\n
+<alpha\=#88><b>Zakharich:<alpha\=#FF></b> That's right! Better safe \nthan sorry.=<alpha\=#88><b>扎哈里奇:<alpha\=#FF></b> 沒錯！小心 \n總比後悔好。
+<alpha\=#88><b>Zakharich:<alpha\=#FF></b> Well... at least it's not radioactive.=<alpha\=#88><b>扎哈里奇:<alpha\=#FF></b> 嗯……至少它沒有輻射。
+<alpha\=#88><b>Zakharich: <alpha\=#FF></b>I'm sure I can put this to \ngood use.=<alpha\=#88><b>扎哈里奇: <alpha\=#FF></b>我相信我能把這個 \n好好利用。
+<alpha\=#88><b>Zakharich: <alpha\=#FF></b>You've got the loot, \nso we are good.=<alpha\=#88><b>扎哈里奇: <alpha\=#FF></b>你貨也拿到了， \n那我們就沒問題了。
+<alpha\=#88><b>Zakharich:<alpha\=#FF></b> A perfect toy for grown-ups.\n\n\n\n\n\n\n\n\n=<alpha\=#88><b>扎哈里奇:<alpha\=#FF></b> 給大人玩的完美玩具。\n\n\n\n\n\n\n\n\n
+<alpha\=#88><b>Zakharich:<alpha\=#FF></b> Cheap, but a lifesaver in the field.\n=<alpha\=#88><b>扎哈里奇:<alpha\=#FF></b> 便宜，但在野外能救命。\n
+<alpha\=#88><b>Zakharich:<alpha\=#FF></b> Even tin cans go for more \nthan this!=<alpha\=#88><b>扎哈里奇:<alpha\=#FF></b> 連空罐頭都比這個 \n值錢！
+<alpha\=#88><b>Zakharich:<alpha\=#FF></b> Is this really enough for you?\n\n\n\n\n\n\n=<alpha\=#88><b>扎哈里奇:<alpha\=#FF></b> 這樣真的夠你用嗎？\n\n\n\n\n\n\n
+<alpha\=#88><b>Zakharich:<alpha\=#FF></b> New stuff today. \nThe same as always!=<alpha\=#88><b>扎哈里奇:<alpha\=#FF></b> 今天有新貨。 \n跟平常一樣！

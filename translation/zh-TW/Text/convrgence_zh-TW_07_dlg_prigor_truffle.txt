@@ -1,0 +1,97 @@
+// CONVRGENCE 繁體中文 — 批次 07：對白（普里加爾 / 松露）
+
+<alpha\=#88><b>Prigor:<alpha\=#FF></b> Damn it, I was starting to think you'd still be screwing around by the next convergence shift.\r           Alright, come back later \n- we'll take a look at your ride.\r\n=<alpha\=#88><b>普里加爾:<alpha\=#FF></b> 媽的，我還以為你會一路混到下一次匯聚偏移咧。\r           好啦，晚點再過來 \n——我們看看你那台車。\r\n
+<alpha\=#88><b>Prigor:<alpha\=#FF></b> The hell... Where do you think you're going, rookie? I don't work on hunters' rides. Orders from Gromov. \nSee that, Gaika? Look at this slick bastard...\n=<alpha\=#88><b>普里加爾:<alpha\=#FF></b> 搞什麼……你以為你要去哪，菜鳥？我不修獵人的車。格羅莫夫下的令。 \n看到沒，蓋卡？瞧瞧這個油頭混帳……\n
+<alpha\=#88><b>Truffle:<alpha\=#FF></b> Ain't gonna hustle you or shove junk down your throat - just drop by now and then. Swear on my rep, you'll find something worth your while.=<alpha\=#88><b>松露:<alpha\=#FF></b> 我不會坑你，也不會硬塞爛貨給你——有空就來晃晃。我拿我的信譽發誓，你一定找得到值得的東西。
+<alpha\=#88><b>Truffle:<alpha\=#FF></b> Man, what you pulled off was seriously next-level. Nobody's ever kicked up that kind of hell in the Zone before. I'm telling you!\n\n=<alpha\=#88><b>松露:<alpha\=#FF></b> 老兄，你幹的那一票真的是另一個等級。禁區裡從來沒人搞出那種陣仗。我跟你講真的！\n\n
+<alpha\=#88><b>Truffle:<alpha\=#FF></b> But don't sweat it - nothing illegal. Just the kind of rare goodies you won't find lying around, but damn if they ain't useful.=<alpha\=#88><b>松露:<alpha\=#FF></b> 別緊張——沒什麼犯法的。就是些你在外面撿不到的稀有好貨，但真他媽好用。
+<alpha\=#88><b>Prigor:<alpha\=#FF></b> What's that, Gaika? He's a local \ncelebrity now? Far as I'm concerned, he's still \nthe same rookie he always was.\r\n\n\n\n=<alpha\=#88><b>普里加爾:<alpha\=#FF></b> 什麼啊，蓋卡？他現在是地方 \n名人了？在我看來，他還是 \n那個老樣子的菜鳥。\r\n\n\n\n
+<alpha\=#88><b>Prigor:<alpha\=#FF></b> With that fuel capacity, you can get the hell out of a raid anytime... \nassuming nobody blows your tank first.\r\n\n\n=<alpha\=#88><b>普里加爾:<alpha\=#FF></b> 油箱那個容量，你隨時都能從出擊裡溜掉…… \n前提是沒人先把你的油箱打爆。\r\n\n\n
+<alpha\=#88><b>Prigor:<alpha\=#FF></b> Gaika, don't tell me he's gearing up \nfor a trip to the center.\r\nAnd he seemed like a sane hunter... once...\r\n\n\n\n=<alpha\=#88><b>普里加爾:<alpha\=#FF></b> 蓋卡，別跟我說他在準備 \n往中心跑。\r\n他以前看起來還像個腦袋正常的獵人……曾經啦……\r\n\n\n\n
+<alpha\=#88><b>Prigor:<alpha\=#FF></b> Hell... normal people prep their gear BEFORE a raid. Why the hell you need a workbench out there - no idea.\n\n\n=<alpha\=#88><b>普里加爾:<alpha\=#FF></b> 靠……正常人都是出擊「之前」把裝備弄好。你到底要工作檯幹嘛——我是不懂。\n\n\n
+<alpha\=#88><b>Prigor:<alpha\=#FF></b> Back in my day, a soldier was happy with a bag and a locker... and you want a whole damn wardrobe.\n\n\n\n\n=<alpha\=#88><b>普里加爾:<alpha\=#FF></b> 我那年代，當兵的有個袋子加一個置物櫃就偷笑了……你倒好，想要一整間他媽的衣帽間。\n\n\n\n\n
+<alpha\=#88><b>Truffle:<alpha\=#FF></b> Don't stress it! I got all kinds of goods - come back tomorrow, and I'm sure you'll find something.\n=<alpha\=#88><b>松露:<alpha\=#FF></b> 別急！我什麼貨都有——明天再來，我保證你一定找得到東西。\n
+<alpha\=#88><b>Truffle:<alpha\=#FF></b> What's wrong, bratan? Nothing catch your eye? No big deal - fresh stock coming in tomorrow.\n=<alpha\=#88><b>松露:<alpha\=#FF></b> 怎麼啦兄弟？沒有看上眼的？沒關係——明天有新貨進來。\n
+<alpha\=#88><b>Truffle:<alpha\=#FF></b> Damn, even this one ain't cutting it? Alright, I'll hook up something better tomorrow.\n=<alpha\=#88><b>松露:<alpha\=#FF></b> 靠，連這個都不行喔？好啦，明天我弄個更好的給你。\n
+<alpha\=#88><b>Prigor:<alpha\=#FF></b> Well I'll be damned... turns out that head of yours ain't just for stuffing food in.\n=<alpha\=#88><b>普里加爾:<alpha\=#FF></b> 我還真是服了……原來你那顆頭不只是拿來塞東西吃的。\n
+<alpha\=#88><b>Truffle:<alpha\=#FF></b> Alright then, take it easy! Drop by tomorrow - should have some fresh goods waiting.=<alpha\=#88><b>松露:<alpha\=#FF></b> 那就這樣，保重！明天再來晃晃——應該會有新貨等著你。
+<alpha\=#88><b>Prigor:<alpha\=#FF></b> Hope you thought this through. Taking it out later's gonna be a pain in the ass.\n\n\n\n=<alpha\=#88><b>普里加爾:<alpha\=#FF></b> 希望你想清楚了。之後要拆下來可是很麻煩的。\n\n\n\n
+<alpha\=#88><b>Prigor:<alpha\=#FF></b> Well I'll be... look who crawled back, Gaika. What do you think he wants now, huh?\n=<alpha\=#88><b>普里加爾:<alpha\=#FF></b> 哎喲……看看誰又爬回來了，蓋卡。你猜他這次想幹嘛，嗯？\n
+<alpha\=#88><b>Truffle:<alpha\=#FF></b> Alright, bratan, no deal today... but swing by tomorrow, you won't regret it.=<alpha\=#88><b>松露:<alpha\=#FF></b> 好啦兄弟，今天沒成交……不過明天再來一趟，你不會後悔的。
+<alpha\=#88><b>Prigor:<alpha\=#FF></b> Well? You got something useful to say, or you just gonna keep playing dumb?=<alpha\=#88><b>普里加爾:<alpha\=#FF></b> 怎樣？有什麼有用的話要說，還是打算繼續在那邊裝傻？
+<alpha\=#88><b>Truffle:<alpha\=#FF></b> Hmm... Not your thing? No worries, \nI'll dig up something else tomorrow.\r\n=<alpha\=#88><b>松露:<alpha\=#FF></b> 嗯……不合你胃口？沒關係， \n我明天再去挖點別的。\r\n
+<alpha\=#88><b>Truffle:<alpha\=#FF></b> Come closer, don't be shy. You won't find deals like this anywhere else!\n=<alpha\=#88><b>松露:<alpha\=#FF></b> 靠過來點，別害羞。這種價錢你在別的地方找不到！\n
+<alpha\=#88><b>Truffle:<alpha\=#FF></b> What are you standing around for? Step up, I won't rob you on the price!\n=<alpha\=#88><b>松露:<alpha\=#FF></b> 站在那邊幹嘛？過來啊，價錢我不會坑你！\n
+<alpha\=#88><b>Prigor:<alpha\=#FF></b> Go back to your artifacts and demons. I've got enough crap to deal with.\n=<alpha\=#88><b>普里加爾:<alpha\=#FF></b> 回去搞你的遺物跟惡魔吧。我這邊的爛事已經夠多了。\n
+<alpha\=#88><b>Truffle:<alpha\=#FF></b> Didn't hit the jackpot today, huh? Maybe tomorrow'll be your lucky day.\n=<alpha\=#88><b>松露:<alpha\=#FF></b> 今天沒中大獎喔？說不定明天就是你的幸運日。\n
+<alpha\=#88><b>Truffle:<alpha\=#FF></b> Stay in one piece, bratukha! \nAnd try not to get too many holes in ya.\r\n=<alpha\=#88><b>松露:<alpha\=#FF></b> 好好活著啊兄弟！ \n盡量別讓身上多幾個洞。\r\n
+<alpha\=#88><b>Prigor:<alpha\=#FF></b> With this light show, you'll fry any demon dumb enough to get close.\n\n\n\n=<alpha\=#88><b>普里加爾:<alpha\=#FF></b> 有這套燈光秀，哪隻惡魔敢靠近就烤了牠。\n\n\n\n
+<alpha\=#88><b>Truffle:<alpha\=#FF></b> Hey, pal! I got something real special just for you. Come take a look!\n=<alpha\=#88><b>松露:<alpha\=#FF></b> 欸，朋友！我這有個特別為你留的好東西。過來看看！\n
+<alpha\=#88><b>Truffle:<alpha\=#FF></b> Guess I gotta dump this crap and bring in something proper tomorrow.\r=<alpha\=#88><b>松露:<alpha\=#FF></b> 看來我得把這堆爛貨清一清，明天進點像樣的。\r
+<alpha\=#88><b>Prigor:<alpha\=#FF></b> You won't fit a body in there, \nbut it'll hold some useful crap.\r\n\n\n\n=<alpha\=#88><b>普里加爾:<alpha\=#FF></b> 塞不下一具屍體， \n不過裝點有用的破爛還行。\r\n\n\n\n
+<alpha\=#88><b>Truffle:<alpha\=#FF></b> Catch you later, bratan! Fresh stash coming in tomorrow - promise.\n=<alpha\=#88><b>松露:<alpha\=#FF></b> 下次見啦兄弟！明天有新貨到——我保證。\n
+<alpha\=#88><b>Truffle:<alpha\=#FF></b> Now that's what I like to see! Wish I had more customers like you.\n=<alpha\=#88><b>松露:<alpha\=#FF></b> 這才對嘛！真希望我的客人都像你一樣。\n
+<alpha\=#88><b>Truffle:<alpha\=#FF></b> Psst, man, check this out! \nWon't charge you for just looking! \r\n=<alpha\=#88><b>松露:<alpha\=#FF></b> 欸欸，老兄，看看這個！ \n光看不用錢！\r\n
+<alpha\=#88><b>Prigor:<alpha\=#FF></b> See that, my dear? Fixed his junk and made some money. Not bad.\n\n=<alpha\=#88><b>普里加爾:<alpha\=#FF></b> 看到沒，親愛的？修好他的破爛，還賺了點錢。不賴。\n\n
+<alpha\=#88><b>Prigor:<alpha\=#FF></b> Damn... you're loaded. Could throw a damn feast on that thing.\n\n=<alpha\=#88><b>普里加爾:<alpha\=#FF></b> 靠……你發了啊。那玩意兒都夠你辦一場大宴了。\n\n
+<alpha\=#88><b>Truffle:<alpha\=#FF></b> Stay safe out there, bratan! Don't go getting yourself killed.\n=<alpha\=#88><b>松露:<alpha\=#FF></b> 在外面小心點啊兄弟！別把自己搞死了。\n
+<alpha\=#88><b>Prigor:<alpha\=#FF></b> For Christ's sake... not a minute of peace, huh, my dear? \r\n\n\n\n=<alpha\=#88><b>普里加爾:<alpha\=#FF></b> 老天爺啊……一分鐘都不得安寧，是吧，親愛的？\r\n\n\n\n
+<alpha\=#88><b>Prigor:<alpha\=#FF></b> Take care of that ride. It ain't the same pile of junk anymore.=<alpha\=#88><b>普里加爾:<alpha\=#FF></b> 那台車你好好顧著。它已經不是原本那堆破銅爛鐵了。
+<alpha\=#88><b>Prigor:<alpha\=#FF></b> What, you got nothing better to do than bother people at work?\n=<alpha\=#88><b>普里加爾:<alpha\=#FF></b> 怎樣，你沒別的事幹，專門來煩人上班是不是？\n
+<alpha\=#88><b>Truffle:<alpha\=#FF></b> Catch you later, hunter! \nI'll drink to your health tonight!\r\n=<alpha\=#88><b>松露:<alpha\=#FF></b> 下次見啦獵人！ \n今晚我敬你一杯！\r\n
+<alpha\=#88><b>Truffle:<alpha\=#FF></b> And if your pals need gear, send 'em my way - I got plenty.\r=<alpha\=#88><b>松露:<alpha\=#FF></b> 你朋友要裝備的話，叫他們來找我——我這邊多的是。\r
+<alpha\=#88><b>Truffle:<alpha\=#FF></b> No hard feelings, hunter. \nNew stock's coming in tomorrow.\r\n=<alpha\=#88><b>松露:<alpha\=#FF></b> 別放在心上，獵人。 \n明天有新貨進來。\r\n
+<alpha\=#88><b>Prigor:<alpha\=#FF></b> Remember this, greenhorn: \nbigger trunk means more junk!\n\n\n\n=<alpha\=#88><b>普里加爾:<alpha\=#FF></b> 記住了，菜鳥： \n後車廂越大，能塞的破爛越多！\n\n\n\n
+<alpha\=#88><b>Truffle:<alpha\=#FF></b> Here's to a good haul, bratan! \nJust keep it low-key, yeah?=<alpha\=#88><b>松露:<alpha\=#FF></b> 敬你這趟豐收啊兄弟！ \n低調一點，好嗎？
+<alpha\=#88><b>Truffle:<alpha\=#FF></b> That's life, bratukha. Maybe tomorrow luck's on your side.\n=<alpha\=#88><b>松露:<alpha\=#FF></b> 這就是人生啊兄弟。說不定明天運氣就站你這邊。\n
+<alpha\=#88><b>Prigor:<alpha\=#FF></b> Don't forget to christen it. \nMight actually last longer.\r\n=<alpha\=#88><b>普里加爾:<alpha\=#FF></b> 別忘了給它取個名。 \n說不定還能撐久一點。\r\n
+<alpha\=#88><b>Prigor:<alpha\=#FF></b> Heh... just like my wife. Closet was never big enough.\n\n\n\n\n=<alpha\=#88><b>普里加爾:<alpha\=#FF></b> 呵……跟我老婆一樣。衣櫃永遠不夠大。\n\n\n\n\n
+<alpha\=#88><b>Truffle:<alpha\=#FF></b> Might dig up something interesting by tomorrow - drop by.\n=<alpha\=#88><b>松露:<alpha\=#FF></b> 明天說不定能挖到有意思的東西——來晃晃。\n
+<alpha\=#88><b>Truffle:<alpha\=#FF></b> So, bratukha, you here to trade, \nor just window shopping?=<alpha\=#88><b>松露:<alpha\=#FF></b> 所以呢兄弟，你是要交易， \n還是純逛街？
+<alpha\=#88><b>Truffle:<alpha\=#FF></b> Told ya, didn't I? You'd find \nsomething worth grabbin'!\r=<alpha\=#88><b>松露:<alpha\=#FF></b> 我早說了吧？你一定會找到 \n值得下手的東西！\r
+<alpha\=#88><b>Truffle:<alpha\=#FF></b> Go on, don't be stingy - ain't running no charity here!\n=<alpha\=#88><b>松露:<alpha\=#FF></b> 來嘛，別小氣——我這邊可不是做慈善的！\n
+<alpha\=#88><b>Truffle:<alpha\=#FF></b> Hey bro, fresh stash just rolled in! Wanna take a look?\n=<alpha\=#88><b>松露:<alpha\=#FF></b> 欸兄弟，新貨剛到！要不要看看？\n
+<alpha\=#88><b>Prigor:<alpha\=#FF></b> Alright, rook. Me and Gaika got some simple rules here:\r=<alpha\=#88><b>普里加爾:<alpha\=#FF></b> 好啦，菜鳥。我跟蓋卡這邊有幾條簡單的規矩：\r
+<alpha\=#88><b>Prigor:<alpha\=#FF></b> Now that ain't defense... that's a damn demon killer.\n\n\n=<alpha\=#88><b>普里加爾:<alpha\=#FF></b> 那已經不叫防禦了……那叫他媽的惡魔殺手。\n\n\n
+<alpha\=#88><b>Truffle:<alpha\=#FF></b> You got here just in time! \nGrab it before it's gone!\r\n=<alpha\=#88><b>松露:<alpha\=#FF></b> 你來得正是時候！ \n趁還在快下手！\r\n
+<alpha\=#88><b>Prigor:<alpha\=#FF></b> Ah, Gaika... the kind of idiots\nI have to deal with...=<alpha\=#88><b>普里加爾:<alpha\=#FF></b> 唉，蓋卡……我每天要應付的\n就是這種蠢貨……
+<alpha\=#88><b>Prigor:<alpha\=#FF></b> Don't stand there yapping \n- say what you came for.\r\n\n=<alpha\=#88><b>普里加爾:<alpha\=#FF></b> 別站在那邊碎碎念 \n——有事快說。\r\n\n
+<alpha\=#88><b>Prigor:<alpha\=#FF></b> Got more cash? Come back. We'll figure something out.=<alpha\=#88><b>普里加爾:<alpha\=#FF></b> 錢再多一點？再回來。我們再想辦法。
+<alpha\=#88><b>Prigor:<alpha\=#FF></b> See that, Gaika? Doesn't even know what he came for.\r=<alpha\=#88><b>普里加爾:<alpha\=#FF></b> 看到沒，蓋卡？他連自己來幹嘛都搞不清楚。\r
+<alpha\=#88><b>Prigor:<alpha\=#FF></b> Well I'll be damned... \nwhat do you want this time?\n=<alpha\=#88><b>普里加爾:<alpha\=#FF></b> 我還真是服了…… \n你這次又想幹嘛？\n
+<alpha\=#88><b>Truffle:<alpha\=#FF></b> For my close pals? \nOnly the best stash, I swear!\r\n=<alpha\=#88><b>松露:<alpha\=#FF></b> 給我的好朋友？ \n當然是最好的貨，我發誓！\r\n
+<alpha\=#88><b>Prigor:<alpha\=#FF></b> Say hi to the Zone for me, \nyou walking corpse.\r\n\n=<alpha\=#88><b>普里加爾:<alpha\=#FF></b> 幫我跟禁區問聲好， \n你這具會走路的屍體。\r\n\n
+<alpha\=#88><b>Prigor:<alpha\=#FF></b> See that, Gaika? \nThat's what greed looks like.\n\n\n=<alpha\=#88><b>普里加爾:<alpha\=#FF></b> 看到沒，蓋卡？ \n這就是貪婪長的樣子。\n\n\n
+<alpha\=#88><b>Prigor:<alpha\=#FF></b> Well, Gaika... job's done. Time to take a break. \r=<alpha\=#88><b>普里加爾:<alpha\=#FF></b> 好啦，蓋卡……活幹完了。該休息一下了。\r
+<alpha\=#88><b>Truffle:<alpha\=#FF></b> Today's stash? Pure gold! \nYou won't regret it!\r\n=<alpha\=#88><b>松露:<alpha\=#FF></b> 今天的貨？純金等級！ \n你絕對不會後悔！\r\n
+<alpha\=#88><b>Truffle:<alpha\=#FF></b> Damn, bro, you really came through on this one!\n=<alpha\=#88><b>松露:<alpha\=#FF></b> 靠，兄弟，你這次真的幹得漂亮！\n
+<alpha\=#88><b>Truffle:<alpha\=#FF></b> Damn, now that's some real respect right there!\n=<alpha\=#88><b>松露:<alpha\=#FF></b> 靠，這才叫真正的敬意啊！\n
+<alpha\=#88><b>Truffle:<alpha\=#FF></b> No doubt about it, \nthis one's the real deal.\r\n=<alpha\=#88><b>松露:<alpha\=#FF></b> 這個絕對沒問題， \n是真貨。\r\n
+<alpha\=#88><b>Truffle:<alpha\=#FF></b> Now that's how it's done - clean \nand smooth!\r\n=<alpha\=#88><b>松露:<alpha\=#FF></b> 這才叫俐落—— \n乾淨漂亮！\r\n
+<alpha\=#88><b>Prigor:<alpha\=#FF></b> What, you need everything spelled out for you?\r=<alpha\=#88><b>普里加爾:<alpha\=#FF></b> 怎樣，什麼都要我講到一清二楚是不是？\r
+<alpha\=#88><b>Truffle:<alpha\=#FF></b> If you ever need more, \nyou know who to ask.\r\n=<alpha\=#88><b>松露:<alpha\=#FF></b> 以後還需要什麼， \n你知道要找誰。\r\n
+<alpha\=#88><b>Truffle:<alpha\=#FF></b> Need more stuff? \nYou know where to find me.\r\n=<alpha\=#88><b>松露:<alpha\=#FF></b> 還需要東西嗎？ \n你知道去哪找我。\r\n
+<alpha\=#88><b>Prigor:<alpha\=#FF></b> Alright, cut the chatter. Get to the point.\n\n=<alpha\=#88><b>普里加爾:<alpha\=#FF></b> 好了，廢話少說。講重點。\n\n
+<alpha\=#88><b>Prigor:<alpha\=#FF></b> Tch... idiot. \nThought he was worth my time.\r=<alpha\=#88><b>普里加爾:<alpha\=#FF></b> 嘖……蠢貨。 \n還以為他值得我花時間。\r
+<alpha\=#88><b>Truffle:<alpha\=#FF></b> Hey there, bro! \nLet's do some business!\r\n=<alpha\=#88><b>松露:<alpha\=#FF></b> 嘿兄弟！ \n來做點生意吧！\r\n
+<alpha\=#88><b>Prigor:<alpha\=#FF></b> Hope I don't see you again anytime soon.\n=<alpha\=#88><b>普里加爾:<alpha\=#FF></b> 希望短期內不要再看到你。\n
+<alpha\=#88><b>Truffle:<alpha\=#FF></b> Hell yeah! Knew you had \ngood taste pal!=<alpha\=#88><b>松露:<alpha\=#FF></b> 太讚了！就知道你 \n很有眼光啊朋友！
+<alpha\=#88><b>Prigor:<alpha\=#FF></b> Don't drag it out. What do you need?\n\n\n\n=<alpha\=#88><b>普里加爾:<alpha\=#FF></b> 別拖拖拉拉。你要什麼？\n\n\n\n
+<alpha\=#88><b>Prigor:<alpha\=#FF></b> So... what do you need this time, kid?\n\n=<alpha\=#88><b>普里加爾:<alpha\=#FF></b> 所以……小子，你這次又要什麼？\n\n
+<alpha\=#88><b>Prigor:<alpha\=#FF></b> Spit it out. I ain't got all damn day.\n\n=<alpha\=#88><b>普里加爾:<alpha\=#FF></b> 有話快說。我可沒他媽一整天可以耗。\n\n
+<alpha\=#88><b>Prigor:<alpha\=#FF></b> Well, that's done... time for a bite.\n\n\n=<alpha\=#88><b>普里加爾:<alpha\=#FF></b> 好，這樣就結了……該去吃點東西了。\n\n\n
+<alpha\=#88><b>Prigor:<alpha\=#FF></b> You lost, rookie? Bar's downstairs.\n\n\n\n=<alpha\=#88><b>普里加爾:<alpha\=#FF></b> 迷路了嗎菜鳥？酒吧在樓下。\n\n\n\n
+<alpha\=#88><b>Truffle:<alpha\=#FF></b> I see you got that lucky streak, huh?\n=<alpha\=#88><b>松露:<alpha\=#FF></b> 看來你最近手氣不錯喔？\n
+<alpha\=#88><b>Prigor:<alpha\=#FF></b> Jesus... you again? Make it quick.\n\n\n=<alpha\=#88><b>普里加爾:<alpha\=#FF></b> 老天……又是你？快點講。\n\n\n
+<alpha\=#88><b>Truffle:<alpha\=#FF></b> Hope that buy pays off for ya, man!\n=<alpha\=#88><b>松露:<alpha\=#FF></b> 希望這筆買賣讓你賺翻，老兄！\n
+<alpha\=#88><b>Truffle:<alpha\=#FF></b> Respect, hunter! Always a pleasure.\n=<alpha\=#88><b>松露:<alpha\=#FF></b> 敬你，獵人！每次都很愉快。\n
+<alpha\=#88><b>Truffle:<alpha\=#FF></b> Now that's what I'm talkin' about!=<alpha\=#88><b>松露:<alpha\=#FF></b> 這才是我要的！
+<alpha\=#88><b>Prigor:<alpha\=#FF></b> Jesus... you just wasted my time.\r=<alpha\=#88><b>普里加爾:<alpha\=#FF></b> 老天……你根本是在浪費我時間。\r
+<alpha\=#88><b>Truffle:<alpha\=#FF></b> Smart move, my man. No regrets!\n=<alpha\=#88><b>松露:<alpha\=#FF></b> 聰明的選擇，老兄。不會後悔的！\n
+<alpha\=#88><b>Truffle:<alpha\=#FF></b> Love it when things go smooth.\n=<alpha\=#88><b>松露:<alpha\=#FF></b> 我最喜歡事情順順利利。\n
+<alpha\=#88><b>Prigor:<alpha\=#FF></b> If that's all - works for me.\n\n=<alpha\=#88><b>普里加爾:<alpha\=#FF></b> 就這樣的話——我沒意見。\n\n
+<alpha\=#88><b>Truffle:<alpha\=#FF></b> I see you know your stuff!\n=<alpha\=#88><b>松露:<alpha\=#FF></b> 看來你很懂行嘛！\n
+<alpha\=#88><b>Prigor:<alpha\=#FF></b> Alright, get outta here.\r=<alpha\=#88><b>普里加爾:<alpha\=#FF></b> 好了，滾吧。\r
+<alpha\=#88><b>Truffle:<alpha\=#FF></b> Till next time, bro!\n=<alpha\=#88><b>松露:<alpha\=#FF></b> 下次見啦兄弟！\n
+<alpha\=#88><b>Truffle:<alpha\=#FF></b> Respect, bratukha!=<alpha\=#88><b>松露:<alpha\=#FF></b> 敬你，兄弟！
+<alpha\=#88><b>Truffle:<alpha\=#FF></b> Solid pick, huh?\n=<alpha\=#88><b>松露:<alpha\=#FF></b> 選得不錯吧？\n

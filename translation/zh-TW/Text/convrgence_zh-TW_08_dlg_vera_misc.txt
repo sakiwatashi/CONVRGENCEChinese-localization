@@ -1,0 +1,92 @@
+// CONVRGENCE 繁體中文 — 批次 08：對白（薇拉 / 獵人 / 商人 / 謝廖沙大叔 / 掮客）
+
+<alpha\=#88><b>Vera:<alpha\=#FF></b> Oh my God! I'm so glad you're okay! \nThank you for everything you've done for us. I'm sure what you did \nwill change our lives for the better, and the Zone will become safer. \nAnd you know... I'm proud of you. You're my hero!=<alpha\=#88><b>薇拉:<alpha\=#FF></b> 天啊！你沒事真是太好了！ \n謝謝你為我們做的一切。我相信你做的事 \n會讓我們的生活變好，禁區也會變得安全一點。 \n而且你知道嗎……我以你為榮。你是我的英雄！
+<alpha\=#88><b>Vera:<alpha\=#FF></b> Perfect! With this, we've got a real shot at holding out \nuntil the next delivery. Some of the wounded are already recovering - \nI should be able to free up the infirmary soon. \nAnd hey - stop by if you ever need patching up.=<alpha\=#88><b>薇拉:<alpha\=#FF></b> 太好了！有了這些，我們真的有機會撐到 \n下一批補給。有些傷患已經開始康復了—— \n我應該很快就能把醫務室空出來。 \n還有啊——需要包紮的話隨時過來。
+<alpha\=#88><b>Vera:<alpha\=#FF></b> I did warn everyone I was running low on meds. \nI begged for help. And did anyone lift a finger? Of course not. Why would they? Vera always takes care of everything, right? \n=<alpha\=#88><b>薇拉:<alpha\=#FF></b> 我明明就警告過大家藥品快用完了。 \n我求過人幫忙。有誰動一根手指嗎？當然沒有。他們幹嘛動？反正薇拉什麼都會處理好，對吧？\n
+<alpha\=#88><b>Trader:<alpha\=#FF></b> What? Zakharich? Who the hell is Zakharich? \nGo sleep it off, or get yourself hooked up to an IV in the Infirmary. Looks like the Zone cooked your brain out there.\n=<alpha\=#88><b>商人:<alpha\=#FF></b> 什麼？扎哈里奇？扎哈里奇是哪根蔥？ \n回去睡一睡吧，不然就去醫務室掛個點滴。看來禁區把你的腦子烤壞了。\n
+<alpha\=#88><b>Trader:<alpha\=#FF></b> My name's Zakharich - I'm the local trader around here. I handle the "extra" supplies because the gear they hand out for free doesn't inspire much confidence.=<alpha\=#88><b>商人:<alpha\=#FF></b> 我叫扎哈里奇——這一帶的商人。我處理那些「額外」的補給，因為免費發的那些裝備實在讓人不太放心。
+<alpha\=#88><b>Vera:<alpha\=#FF></b> I heard there are abandoned cars out there - if you're lucky, you might find some first-aid kits in the trunks. Please... check them. Anything could help.\n=<alpha\=#88><b>薇拉:<alpha\=#FF></b> 我聽說外面有些廢棄車輛——運氣好的話，後車廂裡可能有急救包。拜託你……去看看。什麼都好。\n
+<alpha\=#88><b>Vera:<alpha\=#FF></b> Sorry... I lost it for a second. There's just been too many wounded lately, and the supply drop from across the border is seriously delayed.\n=<alpha\=#88><b>薇拉:<alpha\=#FF></b> 抱歉……我剛剛失控了一下。最近傷患實在太多，邊境那邊的補給又嚴重延誤。\n
+<alpha\=#88><b>Hunter:<alpha\=#FF></b> Ugh, my head's finally starting to clear. Once I'm fully back on my feet, I'll be heading back into the Zone. Hope we cross paths again.=<alpha\=#88><b>獵人:<alpha\=#FF></b> 唉，我的頭終於清醒一點了。等我完全恢復，我就要回禁區去。希望我們還會再碰到。
+<alpha\=#88><b>Hunter:<alpha\=#FF></b> Do I really look that bad? I lost my friend in the forest. Wolves got him, and I couldn't do anything. Barely got out alive myself.=<alpha\=#88><b>獵人:<alpha\=#FF></b> 我看起來真的那麼糟嗎？我在森林裡失去了我的朋友。狼把他拖走了，我什麼都做不了。我自己也差點沒能出來。
+<alpha\=#88><b>Hunter:<alpha\=#FF></b> You actually thinned their numbers? You're awesome! I'm broke right now, and the most valuable thing I have left is this crossbow.=<alpha\=#88><b>獵人:<alpha\=#FF></b> 你真的把牠們的數量壓下去了？你太強了！我現在身無分文，唯一值錢的就剩這把十字弓。
+<alpha\=#88><b>Vera:<alpha\=#FF></b> There you are! I'm glad you came. Come in! As you can see, I'm getting the infirmary back in shape and ready to take patients again.=<alpha\=#88><b>薇拉:<alpha\=#FF></b> 你來啦！很高興你過來。進來吧！你看，我正在把醫務室整理好，準備重新收病人。
+<alpha\=#88><b>Vera:<alpha\=#FF></b> If you ever need treatment - or meds - just come straight to me. From now on, you get treated here free of charge.\n=<alpha\=#88><b>薇拉:<alpha\=#FF></b> 需要治療——或是藥品——直接來找我就好。從現在起，你在這裡看病免費。\n
+<alpha\=#88><b>Vera:<alpha\=#FF></b> Well, look who's come crawling in! \nFeeling sick, hunter boy? \nToo bad the infirmary's out of service!\n=<alpha\=#88><b>薇拉:<alpha\=#FF></b> 哎喲，看看是誰爬進來了！ \n身體不舒服嗎，獵人小弟？ \n可惜醫務室現在停止服務！\n
+<alpha\=#88><b>Hunter:<alpha\=#FF></b> Listen, could you help me get some payback on those furry bastards? \nI'll make it worth your while.=<alpha\=#88><b>獵人:<alpha\=#FF></b> 聽著，你能不能幫我找那些毛茸茸的混帳算個帳？ \n我不會讓你白做的。
+<alpha\=#88><b>Trader:<alpha\=#FF></b> Another newcomer? \nSeems like there are a lot of you today. \nWell, come on in, don't be shy.\n=<alpha\=#88><b>商人:<alpha\=#FF></b> 又一個新來的？ \n看來今天你們這種人不少。 \n好啦，進來吧，別客氣。\n
+<alpha\=#88><b>Vera:<alpha\=#FF></b> Damn... Looks like the best stuff's already been looted. We'll have to make do with scraps.\n=<alpha\=#88><b>薇拉:<alpha\=#FF></b> 可惡……看來好東西已經被搜刮光了。我們只能將就這些殘渣。\n
+<alpha\=#88><b>Hunter:<alpha\=#FF></b> Hey, buddy... got anything to take the edge off? Help me out, or I'm done for...\n=<alpha\=#88><b>獵人:<alpha\=#FF></b> 欸，兄弟……有沒有什麼能緩一下的東西？幫幫我，不然我就完了……\n
+<alpha\=#88><b>Vera:<alpha\=#FF></b> I'm only asking for medical reasons, of course... but are you, you know... single?=<alpha\=#88><b>薇拉:<alpha\=#FF></b> 我當然只是基於醫療需要才問的……不過你，那個……單身嗎？
+<alpha\=#88><b>Vera:<alpha\=#FF></b> You can't read minds, can you? Then I'll just keep thinking my thoughts... freely.=<alpha\=#88><b>薇拉:<alpha\=#FF></b> 你不會讀心術吧？那我就繼續……自由地想我的事囉。
+<alpha\=#88><b>Vera:<alpha\=#FF></b> Hm... not exactly a goldmine, but in times like these, anything usable counts.=<alpha\=#88><b>薇拉:<alpha\=#FF></b> 嗯……算不上大豐收，不過這種時候，能用的都算數。
+<alpha\=#88><b>Vera:<alpha\=#FF></b> Now that's more like it. Some of these meds are exactly what I was hoping for.=<alpha\=#88><b>薇拉:<alpha\=#FF></b> 這才像話。這裡面有幾種藥正是我在等的。
+<alpha\=#88><b>Vera:<alpha\=#FF></b> Oh, not bad! A few things have expired, sure, but the rest? Just what we need.=<alpha\=#88><b>薇拉:<alpha\=#FF></b> 喔，不錯嘛！是有幾樣過期了，但其他的？正好是我們需要的。
+<alpha\=#88><b>Vera:<alpha\=#FF></b> You've barely got a scratch-free spot left. \nSit down, I'll patch you up.\n=<alpha\=#88><b>薇拉:<alpha\=#FF></b> 你身上大概找不到一塊沒受傷的地方了。 \n坐下，我幫你處理。\n
+<alpha\=#88><b>Vera:<alpha\=#FF></b> I have a feeling you'll appreciate how useful this case is - real soon.\n=<alpha\=#88><b>薇拉:<alpha\=#FF></b> 我有預感，你很快就會發現這個箱子有多好用。\n
+<alpha\=#88><b>Uncle Serezha:<alpha\=#FF></b> I'm not Santa Claus, of course, \nbut I brought you a present.=<alpha\=#88><b>謝廖沙大叔:<alpha\=#FF></b> 我當然不是聖誕老人， \n不過我帶了個禮物給你。
+<alpha\=#88><b>Vera:<alpha\=#FF></b> You know you can't survive long in that state, right? Let me help.\n=<alpha\=#88><b>薇拉:<alpha\=#FF></b> 你知道自己那個狀態撐不久吧？讓我幫你。\n
+<alpha\=#88><b>Vera:<alpha\=#FF></b> You really don't take care of yourself, huh?\nLet me clean that up.\n=<alpha\=#88><b>薇拉:<alpha\=#FF></b> 你真的很不會照顧自己耶？\n讓我幫你清一清。\n
+<alpha\=#88><b>Vera:<alpha\=#FF></b> Bit of antiseptic, a patch here and there - you'll be good as new.=<alpha\=#88><b>薇拉:<alpha\=#FF></b> 一點消毒藥水，這邊貼一下那邊貼一下——很快就跟新的一樣。
+<alpha\=#88><b>Vera:<alpha\=#FF></b> Could've at least used a medkit...\nFine, I'll deal with it myself.=<alpha\=#88><b>薇拉:<alpha\=#FF></b> 至少用個醫療包啊……\n算了，我自己來處理。
+<alpha\=#88><b>Vera:<alpha\=#FF></b> No rush... I'm not complaining. Especially with company like this.=<alpha\=#88><b>薇拉:<alpha\=#FF></b> 不急……我沒在抱怨。尤其有你這種人作伴。
+<alpha\=#88><b>Vera:<alpha\=#FF></b> Oh my god, look at you... Come in, quick - \nI'll take care of it.\n=<alpha\=#88><b>薇拉:<alpha\=#FF></b> 天啊，你看看你……快進來—— \n我來處理。\n
+<alpha\=#88><b>Vera:<alpha\=#FF></b> Huh... Seems like missing you might become my new favorite hobby.=<alpha\=#88><b>薇拉:<alpha\=#FF></b> 呵……看來想你可能會變成我新的興趣。
+<alpha\=#88><b>Hunter:<alpha\=#FF></b> Men like you... you're what keeps this damn Zone together...\n\n=<alpha\=#88><b>獵人:<alpha\=#FF></b> 像你這樣的人……才是撐住這鬼禁區的支柱……\n\n
+<alpha\=#88><b>Vera:<alpha\=#FF></b> Now you'll always have what you need close at hand - literally.=<alpha\=#88><b>薇拉:<alpha\=#FF></b> 這樣你需要的東西就永遠在手邊了——字面上的那種。
+<alpha\=#88><b>Vera:<alpha\=#FF></b> You don't have to pretend you're made of stone. I'm here, okay?=<alpha\=#88><b>薇拉:<alpha\=#FF></b> 你不用假裝自己是鐵打的。我在這裡，好嗎？
+<alpha\=#88><b>Hunter:<alpha\=#FF></b> Thanks, buddy, you really saved me. The crossbow is yours.=<alpha\=#88><b>獵人:<alpha\=#FF></b> 謝了兄弟，你真的救了我。十字弓歸你了。
+<alpha\=#88><b>Vera:<alpha\=#FF></b> There... and there... it's going to feel better in a second.=<alpha\=#88><b>薇拉:<alpha\=#FF></b> 這邊……還有這邊……馬上就會舒服多了。
+<alpha\=#88><b>Vera:<alpha\=#FF></b> You don't say a word... but your eyes are speaking volumes.=<alpha\=#88><b>薇拉:<alpha\=#FF></b> 你一句話都沒說……但你的眼神說了很多。
+<alpha\=#88><b>Vera:<alpha\=#FF></b> How'd you even get hurt like that? \nCome on, I'll fix it.\n=<alpha\=#88><b>薇拉:<alpha\=#FF></b> 你到底是怎麼傷成這樣的？ \n來吧，我幫你弄。\n
+<alpha\=#88><b>Vera:<alpha\=#FF></b> You've been reckless again. \nSit, I'll get the bandages.\n=<alpha\=#88><b>薇拉:<alpha\=#FF></b> 你又亂來了。 \n坐好，我去拿繃帶。\n
+<alpha\=#88><b>Hunter:<alpha\=#FF></b> I ain't goin' back to those woods... \nEver again...\n\n=<alpha\=#88><b>獵人:<alpha\=#FF></b> 我不會再回那片林子了…… \n這輩子都不會……\n\n
+<alpha\=#88><b>Vera:<alpha\=#FF></b> Looks like I've got another excuse \nto touch you again.=<alpha\=#88><b>薇拉:<alpha\=#FF></b> 看來我又多了一個 \n碰你的藉口。
+<alpha\=#88><b>Vera:<alpha\=#FF></b> If you're trying to make my heart race. \nIt's working.=<alpha\=#88><b>薇拉:<alpha\=#FF></b> 如果你是想讓我心跳加速。 \n那你成功了。
+<alpha\=#88><b>Vera:<alpha\=#FF></b> Looking at you, I'm reminded real men \ndo still exist.=<alpha\=#88><b>薇拉:<alpha\=#FF></b> 看著你，我才想起來 \n真男人還是存在的。
+<alpha\=#88><b>Vera:<alpha\=#FF></b> The wounded really need those supplies. Please, hurry.=<alpha\=#88><b>薇拉:<alpha\=#FF></b> 傷患真的很需要那些補給。拜託，快一點。
+<alpha\=#88><b>Vera:<alpha\=#FF></b> Hey, here on business... \nor something more personal?=<alpha\=#88><b>薇拉:<alpha\=#FF></b> 嘿，是來辦正事的…… \n還是有比較私人的事？
+<alpha\=#88><b>Vera:<alpha\=#FF></b> What the hell happened?! You're a mess! Get in here!\n=<alpha\=#88><b>薇拉:<alpha\=#FF></b> 到底發生什麼事了？！你整個人都爛掉了！快進來！\n
+<alpha\=#88><b>Vera:<alpha\=#FF></b> You're doing great. Just a bit more...\nThat's it. =<alpha\=#88><b>薇拉:<alpha\=#FF></b> 你做得很好。再一下下就好……\n好了。
+<alpha\=#88><b>Hunter:<alpha\=#FF></b> A beer would really \nhit the spot right now...=<alpha\=#88><b>獵人:<alpha\=#FF></b> 現在要是有一杯啤酒 \n就太對味了……
+<alpha\=#88><b>Vera:<alpha\=#FF></b> You don't look so great. \nLet me check you out.\n=<alpha\=#88><b>薇拉:<alpha\=#FF></b> 你看起來不太妙。 \n讓我幫你檢查一下。\n
+<alpha\=#88><b>Vera:<alpha\=#FF></b> Got something on your mind I should know about?=<alpha\=#88><b>薇拉:<alpha\=#FF></b> 有什麼心事想讓我知道嗎？
+<alpha\=#88><b>Vera:<alpha\=#FF></b> There you are. I was just thinking \nabout you.\n=<alpha\=#88><b>薇拉:<alpha\=#FF></b> 你來啦。我剛好 \n在想你。\n
+<alpha\=#88><b>Hunter:<alpha\=#FF></b> Still got that crossbow in one piece? Huh?\n\n=<alpha\=#88><b>獵人:<alpha\=#FF></b> 那把十字弓還完好吧？嗯？\n\n
+<alpha\=#88><b>Hunter:<alpha\=#FF></b> You're a good guy, hunter... Real solid...\n\n=<alpha\=#88><b>獵人:<alpha\=#FF></b> 你是個好人，獵人……真的夠意思……\n\n
+<alpha\=#88><b>Vera:<alpha\=#FF></b> The best for the best - no need to thank me.\n=<alpha\=#88><b>薇拉:<alpha\=#FF></b> 最好的留給最好的——不用謝我。\n
+<alpha\=#88><b>Hunter:<alpha\=#FF></b> Hic! If it ain't the fur-slayer himself!\n\n=<alpha\=#88><b>獵人:<alpha\=#FF></b> 嗝！這不是那位獵毛大師本人嗎！\n\n
+<alpha\=#88><b>Hustler:<alpha\=#FF></b> Bro, come over here, let's have a word.\n=<alpha\=#88><b>掮客:<alpha\=#FF></b> 兄弟，過來一下，我們聊聊。\n
+<alpha\=#88><b>Vera:<alpha\=#FF></b> Damn... We need to treat those wounds now!\n=<alpha\=#88><b>薇拉:<alpha\=#FF></b> 可惡……那些傷得馬上處理！\n
+<alpha\=#88><b>Hustler:<alpha\=#FF></b> Psst... Bratukha! Got a minute to chat?=<alpha\=#88><b>掮客:<alpha\=#FF></b> 欸……兄弟！有空聊一下嗎？
+<alpha\=#88><b>Vera:<alpha\=#FF></b> Glad you're taking your health seriously.\n=<alpha\=#88><b>薇拉:<alpha\=#FF></b> 很高興你開始認真看待自己的健康。\n
+<alpha\=#88><b>Hunter:<alpha\=#FF></b> So, are we making the trade or what?\n=<alpha\=#88><b>獵人:<alpha\=#FF></b> 所以，這筆交易到底做不做？\n
+<alpha\=#88><b>Vera:<alpha\=#FF></b> Always a pleasure. You need something?\n=<alpha\=#88><b>薇拉:<alpha\=#FF></b> 每次都很開心。你需要什麼嗎？\n
+<alpha\=#88><b>Vera:<alpha\=#FF></b> Hello there. How can I help you today?\n=<alpha\=#88><b>薇拉:<alpha\=#FF></b> 你好啊。今天有什麼需要幫忙的？\n
+<alpha\=#88><b>Uncle Serezha:<alpha\=#FF></b> Have you been good this year?=<alpha\=#88><b>謝廖沙大叔:<alpha\=#FF></b> 你今年有乖嗎？
+<alpha\=#88><b>Vera:<alpha\=#FF></b> Don't move, alright? This won't hurt.\n=<alpha\=#88><b>薇拉:<alpha\=#FF></b> 別動，好嗎？這個不會痛。\n
+<alpha\=#88><b>Vera:<alpha\=#FF></b> Good thinking! Take a few extras too.\n=<alpha\=#88><b>薇拉:<alpha\=#FF></b> 想得真周到！多拿幾個吧。\n
+<alpha\=#88><b>Vera:<alpha\=#FF></b> Any luck finding those car medkits?=<alpha\=#88><b>薇拉:<alpha\=#FF></b> 那些車上的急救包找得怎麼樣了？
+<alpha\=#88><b>Hunter:<alpha\=#FF></b> So, you took care of the wolves?=<alpha\=#88><b>獵人:<alpha\=#FF></b> 所以，那些狼你處理掉了？
+<alpha\=#88><b>Vera:<alpha\=#FF></b> Love the way you prep for a raid.\n=<alpha\=#88><b>薇拉:<alpha\=#FF></b> 我喜歡你準備出擊的樣子。\n
+<alpha\=#88><b>Vera:<alpha\=#FF></b> So? Did you find anything useful?=<alpha\=#88><b>薇拉:<alpha\=#FF></b> 所以呢？有找到什麼有用的嗎？
+<alpha\=#88><b>Vera:<alpha\=#FF></b> Want to stay a little longer too?=<alpha\=#88><b>薇拉:<alpha\=#FF></b> 要不要也多留一會兒？
+<alpha\=#88><b>Vera:<alpha\=#FF></b> Take care of yourself, alright?\n=<alpha\=#88><b>薇拉:<alpha\=#FF></b> 好好照顧自己，好嗎？\n
+<alpha\=#88><b>Vera:<alpha\=#FF></b> You know exactly what you want.\n=<alpha\=#88><b>薇拉:<alpha\=#FF></b> 你很清楚自己要什麼。\n
+<alpha\=#88><b>Vera:<alpha\=#FF></b> I'll miss you. Come back soon.\n=<alpha\=#88><b>薇拉:<alpha\=#FF></b> 我會想你的。早點回來。\n
+<alpha\=#88><b>Vera:<alpha\=#FF></b> Promise me you'll return alive.=<alpha\=#88><b>薇拉:<alpha\=#FF></b> 答應我，你會活著回來。
+<alpha\=#88><b>Vera:<alpha\=#FF></b> Just what the doctor ordered.\n=<alpha\=#88><b>薇拉:<alpha\=#FF></b> 正是醫生說要的東西。\n
+<alpha\=#88><b>Vera:<alpha\=#FF></b> Can't raid without that one!\n=<alpha\=#88><b>薇拉:<alpha\=#FF></b> 沒那個可不能出擊！\n
+<alpha\=#88><b>Vera:<alpha\=#FF></b> Good to see you. Come on in.\n=<alpha\=#88><b>薇拉:<alpha\=#FF></b> 看到你真好。進來吧。\n
+<alpha\=#88><b>Vera:<alpha\=#FF></b> It was good to see you again.=<alpha\=#88><b>薇拉:<alpha\=#FF></b> 又見到你真好。
+<alpha\=#88><b>Vera:<alpha\=#FF></b> Let's hope you won't need it.=<alpha\=#88><b>薇拉:<alpha\=#FF></b> 希望你用不上它。
+<alpha\=#88><b>Vera:<alpha\=#FF></b> Already missing you, hunter.=<alpha\=#88><b>薇拉:<alpha\=#FF></b> 已經開始想你了，獵人。
+<alpha\=#88><b>Vera:<alpha\=#FF></b> Keep it close in the field!\n=<alpha\=#88><b>薇拉:<alpha\=#FF></b> 在外面要隨身帶著！\n
+<alpha\=#88><b>Vera:<alpha\=#FF></b> I approve of your choices.\n=<alpha\=#88><b>薇拉:<alpha\=#FF></b> 我贊成你的選擇。\n
+<alpha\=#88><b>Vera:<alpha\=#FF></b> I like how your mind works.=<alpha\=#88><b>薇拉:<alpha\=#FF></b> 我喜歡你的思路。
+<alpha\=#88><b>Vera:<alpha\=#FF></b> Hope I see you again soon.=<alpha\=#88><b>薇拉:<alpha\=#FF></b> 希望很快能再見到你。
+<alpha\=#88><b>Vera:<alpha\=#FF></b> I knew you'd need that.\n=<alpha\=#88><b>薇拉:<alpha\=#FF></b> 我就知道你會需要那個。\n
+<alpha\=#88><b>Vera:<alpha\=#FF></b> I'll be waiting for you.=<alpha\=#88><b>薇拉:<alpha\=#FF></b> 我會等你。
+<alpha\=#88><b>Vera:<alpha\=#FF></b> Safe travels out there.=<alpha\=#88><b>薇拉:<alpha\=#FF></b> 路上小心。
+<alpha\=#88><b>Vera:<alpha\=#FF></b> Come back to me, okay?=<alpha\=#88><b>薇拉:<alpha\=#FF></b> 要回來找我，好嗎？
+<alpha\=#88><b>Vera:<alpha\=#FF></b> Bye, handsome.=<alpha\=#88><b>薇拉:<alpha\=#FF></b> 掰啦，帥哥。
