@@ -378,7 +378,11 @@ namespace ConvrgenceZhFix
 
         static bool IsPaper(TextMeshPro t)
         {
-            // notes are <Note>/Text/{Eng,Rus} with the paper mesh as a sibling of Text
+            // Raid notes and documents (Note_Raid_*, also spawned in raids from the same prefabs)
+            // are <Note>/Text/{Eng,Rus} with the paper mesh (Note, Sticky-Note, ClassifeidDocPage,
+            // Cardboards02) as a sibling of Text, and their text box matches the paper.
+            // Not the hideout wall notices ("Paper") or upgrade blueprints: their text box is
+            // larger than the sheet, so auto-size grows the text off the paper.
             var text = t.transform.parent;
             var note = text != null ? text.parent : null;
             if (note == null) return false;
@@ -388,7 +392,7 @@ namespace ConvrgenceZhFix
                 var m = mr != null ? mr.sharedMaterial : null;
                 if (m == null) continue;
                 string n = m.name;
-                if (n.Contains("Note") || n.Contains("Doc") || n.Contains("Paper") || n.Contains("Card") || n.Contains("Letter"))
+                if (n.Contains("Note") || n.Contains("Doc") || n.Contains("Card") || n.Contains("Letter"))
                     return true;
             }
             return false;
