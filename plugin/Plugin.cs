@@ -35,6 +35,9 @@ namespace ConvrgenceZhFix
         internal static ConfigEntry<float> ScanInterval;
         internal static ConfigEntry<float> CjkDilate;
         internal static ConfigEntry<bool> CheckGlyphs;
+        internal static ConfigEntry<float> CjkPaperScale;
+        internal static ConfigEntry<float> CjkCharSpacing;
+        internal static ConfigEntry<float> CjkLineSpacing;
         internal static ConfigEntry<int> LoadScene;
         internal static ConfigEntry<string> ViewObject;
         internal static ConfigEntry<float> ViewDistance;
@@ -53,6 +56,12 @@ namespace ConvrgenceZhFix
             ViewDistance = Config.Bind("Debug", "ViewDistance", 0.45f, "ViewObject 的攝影機距離（公尺）");
             CjkDilate = Config.Bind("General", "CjkDilate", 0.12f,
                 "打字機字型的中文筆畫加粗量（0＝不加粗；原本英文外框是 0.324，太粗會黏在一起）");
+            CjkPaperScale = Config.Bind("Paper", "MaxScale", 1.25f,
+                "紙本文件（報告、字條）的中文最多放大幾倍；放得下才放大，放不下會自動縮回（1＝不放大）");
+            CjkCharSpacing = Config.Bind("Paper", "CharSpacing", 6f,
+                "紙本文件中文的額外字距（TextMeshPro 單位，字高的 1/100）");
+            CjkLineSpacing = Config.Bind("Paper", "LineSpacing", 18f,
+                "紙本文件中文的額外行距（TextMeshPro 單位，字高的 1/100）");
             ScanInterval = Config.Bind("General", "ScanInterval", 1.0f,
                 "每隔幾秒檢查一次是否換了場景（換場景時才會整體掃一次文字物件）");
             ClassInjector.RegisterTypeInIl2Cpp<TextFixer>();
@@ -145,6 +154,8 @@ namespace ConvrgenceZhFix
                     sc.fallbackFontAssetTable.Add(extra);
                     Plugin.Logger.LogInfo("fallback added: " + sc.name + " -> " + extra.name);
                 }
+            PatchLineBreaking();
+
             if (Plugin.CheckGlyphs.Value)
             {
                 CheckGlyphs(sc, jp, kr);
@@ -173,6 +184,23 @@ namespace ConvrgenceZhFix
         }
 
         static bool Has(TMP_FontAsset f, char c) => f != null && f.HasCharacter(c);
+
+        // TMP's CJK line breaking keeps 。，」 off the start of a line, but it does not know the
+        // halfwidth stand-ins we display instead (｡､｣), so a full stop could open a line.
+        const string NoLineStart = "｡､｣，．！？：；）〕］｝〉》」』－～";
+        const string NoLineEnd = "｢（〔［｛〈《「『";
+
+        static void PatchLineBreaking()
+        {
+            var rules = TMP_Settings.linebreakingRules;
+            if (rules == null) { Plugin.Logger.LogWarning("no TMP line breaking rules"); return; }
+            int added = 0;
+            foreach (char c in NoLineStart)
+                if (rules.followingCharacters != null && !rules.followingCharacters.ContainsKey(c)) { rules.followingCharacters.Add(c, c); added++; }
+            foreach (char c in NoLineEnd)
+                if (rules.leadingCharacters != null && !rules.leadingCharacters.ContainsKey(c)) { rules.leadingCharacters.Add(c, c); added++; }
+            Plugin.Logger.LogInfo("line breaking rules: added " + added + " characters");
+        }
 
         static void CheckGlyphs(TMP_FontAsset sc, TMP_FontAsset jp, TMP_FontAsset kr)
         {
@@ -336,6 +364,67 @@ namespace ConvrgenceZhFix
             foreach (var bar in Bars(t)) bar.enabled = !cjk;
             if (cjk) RemoveOutline(t, id);
             else RestoreOutline(t, id);
+            if (cjk) ApplyPaperLayout(t, id);
+            else RestorePaperLayout(t, id);
+        }
+
+        // ---------- 紙本文件放大 ----------
+        // Chinese is much shorter than the English on the same page, and dense ideographs at the
+        // original size blur in a headset. On notes and documents, let TMP grow the text up to
+        // CjkPaperScale while it still fits the text box, and open up letter and line spacing.
+
+        struct Layout { public float size, min, max, cs, ls; public bool auto; }
+        readonly Dictionary<int, Layout> _origLayout = new Dictionary<int, Layout>();
+
+        static bool IsPaper(TextMeshPro t)
+        {
+            // notes are <Note>/Text/{Eng,Rus} with the paper mesh as a sibling of Text
+            var text = t.transform.parent;
+            var note = text != null ? text.parent : null;
+            if (note == null) return false;
+            for (int i = 0; i < note.childCount; i++)
+            {
+                var mr = note.GetChild(i).GetComponent<MeshRenderer>();
+                var m = mr != null ? mr.sharedMaterial : null;
+                if (m == null) continue;
+                string n = m.name;
+                if (n.Contains("Note") || n.Contains("Doc") || n.Contains("Paper") || n.Contains("Card") || n.Contains("Letter"))
+                    return true;
+            }
+            return false;
+        }
+
+        void ApplyPaperLayout(TextMeshPro t, int id)
+        {
+            float scale = Plugin.CjkPaperScale.Value;
+            if (scale <= 1.001f && Plugin.CjkCharSpacing.Value == 0 && Plugin.CjkLineSpacing.Value == 0) return;
+            if (_origLayout.ContainsKey(id) || !IsPaper(t)) return;
+            var o = new Layout
+            {
+                size = t.fontSize, min = t.fontSizeMin, max = t.fontSizeMax,
+                cs = t.characterSpacing, ls = t.lineSpacing, auto = t.enableAutoSizing,
+            };
+            _origLayout[id] = o;
+            float baseSize = o.auto ? o.max : o.size;
+            t.characterSpacing = o.cs + Plugin.CjkCharSpacing.Value;
+            t.lineSpacing = o.ls + Plugin.CjkLineSpacing.Value;
+            t.fontSizeMin = o.auto ? o.min : baseSize * 0.8f;
+            t.fontSizeMax = baseSize * scale;
+            t.enableAutoSizing = true;
+            t.ForceMeshUpdate();
+        }
+
+        void RestorePaperLayout(TextMeshPro t, int id)
+        {
+            if (!_origLayout.TryGetValue(id, out var o)) return;
+            _origLayout.Remove(id);
+            t.enableAutoSizing = o.auto;
+            t.fontSizeMin = o.min;
+            t.fontSizeMax = o.max;
+            t.fontSize = o.size;
+            t.characterSpacing = o.cs;
+            t.lineSpacing = o.ls;
+            t.ForceMeshUpdate();
         }
 
         void RemoveOutline(TextMeshPro t, int id)
