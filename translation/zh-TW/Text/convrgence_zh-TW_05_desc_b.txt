@@ -43,7 +43,7 @@ Uncle Serezha: Good price! Two guns... for the price of two guns! (laughs out lo
 Upgrade your van at the VW \nwith additions like a workbench \nor extra storage space.=到車輛工坊改裝你的廂型車， \n加裝工作檯 \n或額外的儲物空間。
 PDAs...............................................................................=PDA...............................................................................
 Restore the infirmary to unlock\naccess to free treatment and \nnew medical supplies.=修復醫務室即可解鎖\n免費治療與 \n新的醫療補給。
-Raid the city during daylight,\nbut beware of enemy snipers \nand convergent shifts!=趁白天突入城市，\n但要小心敵方狙擊手 \n和匯聚偏移！
+Raid the city during daylight,\nbut beware of enemy snipers \nand convergent shifts!=趁白天突入死城，\n但要小心敵方狙擊手 \n和匯聚偏移！
 A wide range of new consumables, along with related mechanics \nlike intoxication.=大量新的消耗品，以及伴隨而來的 \n中毒等機制。
 Extract even more loot!\nYou can now carry items out of raids right in your hands.=帶出更多戰利品！\n現在你可以直接用手把東西帶出出擊。
 What combat difficulty level do you prefer? \n(Can be changed anytime in settings)=你偏好哪一種戰鬥難度？ \n（隨時可以在設定裡更改）

@@ -25,7 +25,7 @@ Our hunter's gone missing! Could the grenades really be that ineffective? Or may
 If the dog senses an \nenemy, he will alert you \nwith a growl\n\r\nThen you can command \nthe dog to ATTACK with a \nSINGLE SHORT WHISTLE=狗如果察覺到\n敵人，會用低吼\n提醒你\n\r\n這時你可以用\n一聲短促的口哨\n命令牠攻擊
 The bandit leader has been spotted in the Zone. Always flanked by his crew, armed with an AK with an underbarrel grenade launcher.=有人在禁區裡目擊到土匪頭目。他身邊永遠跟著一票手下，手上那把 AK 還掛著槍榴彈發射器。
 Your main weapon is \nstored behind your \nright shoulder, but \nfor now it's is missing\n\nPress the red button\nto finish the tutorial=你的主武器\n收在右肩\n後方，不過\n你現在還沒有\n\n按下紅色按鈕\n結束教學
-- Infirmary\r\n- New trader\r\n- New medical items\n\r- Daytime city\r\n- New enemy\r\n- New guns\r\n- Convergent shifts\r\n- Knife sharpening\r=- 醫務室\r\n- 新商人\r\n- 新醫療物品\n\r- 白天的城市\r\n- 新敵人\r\n- 新槍械\r\n- 匯聚偏移\r\n- 磨刀\r
+- Infirmary\r\n- New trader\r\n- New medical items\n\r- Daytime city\r\n- New enemy\r\n- New guns\r\n- Convergent shifts\r\n- Knife sharpening\r=- 醫務室\r\n- 新商人\r\n- 新醫療物品\n\r- 白天的死城\r\n- 新敵人\r\n- 新槍械\r\n- 匯聚偏移\r\n- 磨刀\r
 Your main weapon is \nstored behind your \nleft shoulder, but \nfor now it's is missing\n\nPress the red button\nto finish the tutorial=你的主武器\n收在左肩\n後方，不過\n你現在還沒有\n\n按下紅色按鈕\n結束教學
 Take the insurance from the first shelf (the first one is free).\n\nDon't forget to renew its coverage after an unsuccessful raid.=到第一排架子上拿保險（第一份免費）。\n\n出擊失利之後，別忘了續保。
 Uncle Serezha: As it's sung in an old song: "Undress, since you've come". I Joke. Please don't undress. Better show your swag.\n=謝廖沙大叔：就像老歌唱的：「來都來了，脫吧。」開玩笑的。拜託別脫。不如把你的貨拿出來給我看。\n
