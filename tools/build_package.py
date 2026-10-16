@@ -16,7 +16,7 @@ sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import xua_text  # noqa: E402
 
 REPO = os.path.abspath(os.path.join(os.path.dirname(os.path.abspath(__file__)), ".."))
-VERSION = "1.1"
+VERSION = "1.2"
 
 GAME_FILES = ["winhttp.dll", "doorstop_config.ini", ".doorstop_version"]
 GAME_TREES = ["dotnet", "BepInEx/core", "BepInEx/plugins", "BepInEx/config", "BepInEx/unity-libs"]

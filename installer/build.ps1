@@ -2,7 +2,7 @@
 # 先跑 tools\build_package.py 產生 zip，再執行：
 #   powershell -ExecutionPolicy Bypass -File installer\build.ps1
 param(
-    [string]$Version = '1.1'
+    [string]$Version = '1.2'
 )
 $ErrorActionPreference = 'Stop'
 $repo = Split-Path $PSScriptRoot -Parent

@@ -15,8 +15,8 @@
 
 | 檔案 | 說明 |
 |---|---|
-| `CONVRGENCE-zh-TW-v1.1-Setup.exe` | 安裝程式，會自動找到遊戲，最簡單 |
-| `CONVRGENCE-zh-TW-v1.1.zip` | 手動解壓縮到遊戲資料夾 |
+| `CONVRGENCE-zh-TW-v1.2-Setup.exe` | 安裝程式，會自動找到遊戲，最簡單 |
+| `CONVRGENCE-zh-TW-v1.2.zip` | 手動解壓縮到遊戲資料夾 |
 
 目前版本對應遊戲 **2026-10-01** 更新後的版本。
 
@@ -24,7 +24,7 @@
 
 ### 方法一：安裝程式
 
-1. 執行 `CONVRGENCE-zh-TW-v1.1-Setup.exe`
+1. 執行 `CONVRGENCE-zh-TW-v1.2-Setup.exe`
 2. 確認「遊戲資料夾」是對的（通常會自動找到），按 **安裝中文化**
 3. 照常從 Steam 啟動遊戲
 
