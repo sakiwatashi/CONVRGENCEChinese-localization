@@ -1,0 +1,194 @@
+### Hideout / LivingRoom!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!/NotesPlane/Note_Raid_19/Text/Eng
+TEXT: Today, the management is initiating Protocol No.72305 for the liquidation of unused assets and secret documents to prevent further leakage of confidential information. All departments are requested to organize their archives and files, and documents falling under the directive are to be destroyed according to the established procedure.\n\n\nI trust there is no need to remind you how to conduct this. Please ensure everything is done correctly this time. The documents will be inspected by FSB personnel after the necessary operations have been carried out.\n
+BAR Cube rect=(128,-36)-(257,-16) : [No.72305 ]
+BAR Cube (1) rect=(521,-489)-(569,-469) : [FSB ]
+
+### Hideout / LivingRoom!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!/NotesPlane/Note_Raid_18/Text/Rus
+TEXT: Анализ ранних отчетов нулевого дня показывает, что аномальная активность производит воздействие на некоторые предметы в масштабах всей территории Чернокаменска. Привычные предметы обихода и инвентарь без какой либо причины приобретают новые свойства, зачастую - агрессивного и даже опасного характера. Работники лаборатории и вольнонаемный персонал (охотники) в простой речи называют эти предметы "Артефактами". Предлагаю придерживаться данной терминологии, чтобы не плодить сущности.\n\nСейчас Отдел 7 изучает природу изменений и новые свойства предметов, которые охотники успели доставить в лаборатории. Параллельно Отдел 13 работает над улучшением системы хранения. \n
+BAR Cube (3) rect=(324,-2)-(521,18) : <none>
+BAR Cube (4) rect=(99,-524)-(217,-504) : <none>
+BAR Cube (5) rect=(177,-628)-(305,-608) : <none>
+
+### Hideout / LivingRoom!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!/NotesPlane/Note_Raid_13/Text/Rus
+TEXT: Все эти события ведут к очень темному, катастрофически опасному сценарию. Если зона будет расти - нам конец. Если она расти не будет, останется "как есть" - рано или поздно ее новые обитатели вырвутся наружу и неизвестно, чем этот прорыв закончится. \n\nУстановка внутри старой лаборатории, сердце Чернокамеска, еще работает. Если к ней кто-то проберется и использует в своих целях - нас ждет еще одна глобальная катастрофа.\n
+BAR Cube rect=(71,-72)-(245,-52) : <none>
+BAR Cube (1) rect=(-1,-107)-(211,-87) : <none>
+BAR Cube (2) rect=(247,-282)-(537,-262) : <none>
+BAR Cube (3) rect=(-1,-318)-(306,-297) : <none>
+
+### Hideout / LivingRoom!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!/NotesPlane/Note_Raid_12/Text/Rus
+TEXT: Все эти нестабильные частицы, материи, валентности и прочие научные концепции - всего лишь игра в богов с вещами для этого не предназначенными. Никто в здравом уме не мог предположить, что наш мир - не единственный.  Что их, может, сотни или даже тысячи! Все наслоены друг на друга, как лепестки на розе или чертов лук. \n\nПросто нам попалось измерение, с которым не стоило контактировать. Теперь неизвестно что будет, как все обернется. И я говорю не только про Чернокаменск, но и про весь мир. Зона, которая образовалась в месте слияния - опасна для жизни на всей планете.
+BAR Cube rect=(483,-142)-(604,-122) : <none>
+BAR Cube (1) rect=(-2,-177)-(342,-156) : <none>
+BAR Cube (2) rect=(101,-351)-(452,-331) : <none>
+
+### Hideout / LivingRoom!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!/NotesPlane/Note_Raid_10/Text/Rus
+TEXT: Проект "Голубая роза" изначально позиционировался как возможность доказать опытным путем, что помимо нашего мира есть и другие. Просто находятся они не в космосе, а рядом - над нами, под нами или может даже существуют одновременно, просто в другой плоскости. \n\nНикто не думал, что государственный аппарат всерьез воспримет настолько экстремальную концепцию, выделит на исследования ресурсы и привлечет блестящие умы из разных уголков страны. Но именно так и случилось. И эти умы, несмотря на трудности и лишения, достигли прорыва. \n\nКак жаль, что этого прорыва не удалось избежать.\n
+BAR Cube rect=(408,-141)-(560,-121) : <none>
+BAR Cube (1) rect=(-3,-176)-(274,-156) : <none>
+BAR Cube (2) rect=(366,-212)-(603,-192) : <none>
+BAR Cube (3) rect=(-3,-245)-(148,-225) : <none>
+BAR Cube (4) rect=(364,-386)-(531,-366) : <none>
+BAR Cube (5) rect=(-1,-421)-(302,-400) : <none>
+BAR Cube (6) rect=(399,-489)-(555,-469) : <none>
+BAR Cube (7) rect=(-1,-525)-(479,-505) : <none>
+
+### Hideout / LivingRoom!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!/NotesPlane/Note_Raid_16/Text/Rus
+TEXT: Исследовательский комплекс ХАЛ-10 возле озера Стальное скомпрометирован. На данный момент оттуда не поступает никаких данных, поэтому есть основания полагать, что объект уничтожен вместе с персоналом. \n\nПричиной могла стать трансформация пространства, которая происходит каждый календарный день с момента открытия "разлома". Раз в сутки территория изменяется, неорганические объекты перемещаются в хаотичных последовательностях. Мы до сих пор не можем вычислить логику этих перемещений. \n\nМы проследили за изменениями органических форм и на их основе составили 154 сценария с разнообразными переменными. Во всех из них живые организмы погибают от изменений. \n
+BAR Cube rect=(401,-3)-(497,18) : <none>
+BAR Cube (1) rect=(-1,-37)-(215,-17) : <none>
+BAR Cube (2) rect=(399,-316)-(529,-296) : <none>
+BAR Cube (3) rect=(2,-352)-(132,-332) : <none>
+BAR Cube (4) rect=(187,-663)-(494,-643) : <none>
+BAR Cube (5) rect=(1,-700)-(478,-680) : <none>
+
+### Hideout / LivingRoom!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!/NotesPlane/Note_Raid_20/Text/Eng
+TEXT: Report Fragment 5300-009-837\n\nThe experiments with the installation have yielded the first promising results. We have confirmed the validity of the proposed hypothesis. The thinning of space has been officially documented for the first time. Sakharov has authorized the transition to the final stage of Project "Blue Rose". During testing at Experimental Stand No.4, a distinct "ripple" was observed. However, all attempts to stabilize it, as well as to pass through it, have been unsuccessful. Dzhaguashvili insists that we increase the installation's power input, while Platonov argues that the duration of the emitted pulses should be extended. Those two are ready to tear each other's throats out just to prove to Sakharov that they're right.\n\nA.P. Evglevsky
+BAR Cube rect=(315,-3)-(357,19) : [009]
+BAR Cube (1) rect=(299,-246)-(420,-224) : [Sakharov ]
+BAR Cube (2) rect=(136,-384)-(256,-361) : ["ripple" ]
+BAR Cube (3) rect=(208,-491)-(405,-467) : [Dzhaguashvili ]
+BAR Cube (4) rect=(190,-561)-(314,-537) : [Platonov ]
+BAR Cube (5) rect=(42,-698)-(166,-674) : [Sakharov ]
+
+### Hideout / LivingRoom!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!/NotesPlane/Note_Raid_12/Text/Eng
+TEXT: All these unstable particles, matter, valencies, and other scientific concepts are nothing but playing gods with things not meant for it. No one in their right mind could have imagined that our world is not the only one. That there may be hundreds or even thousands of them! They are all layered upon each other, like petals on a rose or bloody onion.\n\n\nWe simply stumbled upon a dimension with which we shouldn't have made contact. Now it's unclear what will happen, how it will all turn out. And I'm not just talking about Chernokamensk, but about the whole world. The Zone that formed at the convergence point is dangerous for life on the entire planet.
+BAR Cube rect=(447,-142)-(584,-122) : [our world ]
+BAR Cube (1) rect=(-0,-176)-(297,-156) : [is not the only one.]
+BAR Cube (2) rect=(146,-385)-(524,-365) : [stumbled upon a dimension ]
+
+### Hideout / LivingRoom!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!/NotesPlane/Note_Raid_16/Text/Eng
+TEXT: The research complex HAL-10 near Stalnoe Lake has been compromised. Currently, no data is being received from there, so there are grounds to believe that the facility has been destroyed along with the personnel.\n\n\nThe cause could be the spatial transformation that occurs every calendar day since the "rift" was opened. Once a day, the area changes, and inorganic objects move in chaotic sequences. We still cannot determine the logic behind these movements.\n\n\nWe have tracked the changes in organic forms and based on them, compiled 154 scenarios with various variables. In all of them, living organisms perish from the changes.\n
+BAR Cube rect=(309,-3)-(406,18) : [HAL-10 ]
+BAR Cube (1) rect=(488,-3)-(601,18) : [Stalnoe ]
+BAR Cube (2) rect=(-0,-37)-(64,-17) : [Lake ]
+BAR Cube (3) rect=(284,-351)-(496,-331) : [the "rift" was ]
+BAR Cube (4) rect=(-0,-386)-(105,-366) : [opened. ]
+BAR Cube (5) rect=(505,-663)-(598,-643) : [In all ]
+BAR Cube (6) rect=(3,-700)-(556,-680) : [of them, living organisms perish from ]
+BAR Cube (7) rect=(3,-733)-(179,-713) : [the changes.]
+
+### Hideout / LivingRoom!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!/NotesPlane/Note_Raid_17/Text/Rus
+TEXT: Кому: Н.А. Сахарову\n\nПосле инцидента конвергенции и первого контакта с внеземными формами жизни мы потеряли доступ к исследовательскому комплексу. Фактически у нас нет возможности проводить опыты в штатном режиме и обрабатывать информацию в прежних объемах. Группа специалистов, которую вы послали для сбора полевых сведений, пропала неделю назад. Новые группы не объявлялись. \n\nМоя лаборатория парализована, а лаборанты - деморализованы. Не стоит отравлять светлые умы страхом, рефлексией и бездельем. Прошу навести порядок и наладить рабочий процесс.\n\nС уважением, \nА.П. Евглевский\n
+BAR Cube rect=(84,-3)-(292,18) : <none>
+BAR Cube (1) rect=(455,-74)-(572,-54) : <none>
+BAR Cube (2) rect=(3,-108)-(530,-88) : <none>
+BAR Cube (3) rect=(183,-663)-(376,-643) : <none>
+
+### Hideout / LivingRoom!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!/NotesPlane/Note_Raid_10/Text/Eng
+TEXT: The "Blue Rose" project was initially positioned as an opportunity to prove by experimental means that besides our world, there are others. They may not be in space, but rather nearby - above us, below us, or perhaps even existing simultaneously, just in a different plane.\n\n\nNobody thought that the government would take such an extreme concept seriously, allocate resources for research, and attract brilliant minds from different corners of the country. But that's exactly what happened. And these minds, despite the difficulties and hardships, achieved a breakthrough.\n\n\nIt's such a pity that this breakthrough couldn't be avoided.\n
+BAR Cube rect=(123,-142)-(582,-121) : [, but rather nearby - above us, ]
+BAR Cube (1) rect=(-1,-177)-(141,-157) : [below us, ]
+BAR Cube (2) rect=(-1,-247)-(89,-226) : [plane.]
+BAR Cube (3) rect=(232,-212)-(524,-192) : [just in a different ]
+BAR Cube (4) rect=(1,-419)-(484,-399) : [allocate resources for research, ]
+BAR Cube (5) rect=(337,-523)-(581,-503) : [And these minds,]
+BAR Cube (6) rect=(1,-559)-(581,-539) : [despite the difficulties and hardships,]
+
+### Hideout / LivingRoom!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!/NotesPlane/Note_Raid_19/Text/Rus
+TEXT: Сегодня руководство запускает протокол №72305 о ликвидации неиспользуемых активов и секретных документов с целью пресечь новую утечку конфиденциальной информации. Просьба всем отделам привести в порядок архивы и картотеки, а документы попадающие под директиву - уничтожить согласно установленной процедуре. \n\nДумаю, не нужно вам напоминать, как ее проводить. Хоть раз сделайте все правильно. Проверку бумаг после необходимых операций будут проводить сотрудники органов ФСБ.\n
+BAR Cube rect=(-0,-37)-(83,-17) : <none>
+BAR Cube (1) rect=(158,-489)-(342,-469) : <none>
+
+### Hideout / LivingRoom!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!/NotesPlane/Note_Raid_18/Text/Eng
+TEXT: Analysis of early reports from day zero indicates that anomalous activity is affecting some objects on the scale of the entire territory of Chernokamensk. Common household items and equipment are acquiring new properties without any apparent cause, often of an aggressive or even dangerous nature. Laboratory staff and freelance personnel (hunters) colloquially refer to these objects as "Artifacts". I suggest adhering to this terminology to avoid proliferation of entities.\n\n\nCurrently, Department No.7 is studying the nature of the changes and the new properties of the objects that hunters have brought to the laboratory. Concurrently, Department No.13 is working on improving the storage system.\n
+BAR Cube rect=(383,-2)-(587,18) : [from day zero ]
+BAR Cube (1) rect=(164,-523)-(391,-503) : [Department No.7 ]
+BAR Cube (2) rect=(203,-663)-(454,-643) : [Department No.13 ]
+
+### Hideout / LivingRoom!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!/NotesPlane/Note_Raid_14/Text/Eng
+TEXT: The bodies of the "subjects", their tissues, muscles, and bones appear visually similar to ours, but research has shown that the properties of the "interlopers" bodies are radically different from those of humans. They are more resistant to damage and injuries.\n\n\nThere is a possibility that the atmosphere and light (or its absence?) from our space make them this way, while their bodies do not differ in properties from ours in their "home" environment. Perhaps this is why the "demons" only appear at night. However, there is no definitive evidence; more data is needed, and it can only be obtained through experimentation.\n
+BAR Cube rect=(268,-3)-(417,18) : ["subjects"]
+BAR Cube (1) rect=(415,-38)-(513,-18) : [appear ]
+BAR Cube (2) rect=(-1,-72)-(359,-52) : [visually similar to ours]
+
+### Hideout / LivingRoom!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!/NotesPlane/Note_Raid_14/Text/Rus
+TEXT: Тела "субъектов", их ткани, мышцы и кости с визуальной точки зрения похожи на наши, но исследования показали, что свойства тел "пришельцев" разительно отличаются от человеческих. Они более устойчивы к повреждениям и травмам. \n\nЕсть вероятность, что таковыми их делает атмосфера и свет (или его отсутствие?) из нашего пространства, в то время как "дома" их тела по свойствам от наших не отличаются. Возможно именно по этой причине "демоны" появляются только по ночам. Но точных доказательств нет, нужно больше данных, а получить их можно только опытным путем.\n
+BAR Cube rect=(70,-3)-(238,18) : <none>
+BAR Cube (1) rect=(84,-38)-(570,-18) : <none>
+BAR Cube (2) rect=(-3,-73)-(121,-53) : <none>
+
+### Hideout / LivingRoom!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!/NotesPlane/Note_Raid_9/Text/Rus
+TEXT: Не знаю, как там дела у профессора Евглевского, но у моей команды тотальное отклонение от изначально заданного курса. Сперва два наших проекта - "Персей" и "Прометей" - объединили в один общий, чего делать строго не рекомендовалось, даже запрещалось лично мною. Это нестабильные материалы и субстанции, зря руководство решило их столкнуть. У меня нет абсолютно никакого понимания, к чему может привести произошедшее. Но это уже на их совести будет. Я же - умываю руки.\n
+BAR Cube rect=(358,-3)-(511,17) : <none>
+BAR Cube (1) rect=(-0,-35)-(165,-14) : <none>
+BAR Cube (2) rect=(-0,-140)-(314,-119) : <none>
+BAR Cube (3) rect=(503,-212)-(581,-191) : <none>
+BAR Cube (4) rect=(-3,-246)-(61,-225) : <none>
+
+### Hideout / NewYearPostCard/Text/Rus
+TEXT: Исследование показало, что все аномальные тыквы, появляющиеся по всей зоне, имеют одно и то же генетическое строение. Это не просто совпадение. Каждая из них - дубликат одного и того же оригинального объекта, хоть и не всегда такого же размера. Мы пока не знаем, как именно происходит процесс дубликации, но скорость появления новых экземпляров растет. Если так пойдёт дальше, зона будет буквально завалена этими тыквами.\n\nНаши гипотезы указывают на существование первоисточника - оригинального плода, который необходимо как можно быстрее обнаружить и доставить в лабораторию для уничтожения. В противном случае, последствия могут оказаться непредсказуемыми.\n\nПрошу всех охотников немедленно обратить внимание на эту проблему. Время на исходе.
+BAR Cube rect=(358,-3)-(511,17) : <none>
+BAR Cube (1) rect=(-0,-35)-(165,-14) : <none>
+BAR Cube (2) rect=(-0,-140)-(314,-119) : <none>
+BAR Cube (3) rect=(503,-212)-(581,-191) : <none>
+BAR Cube (4) rect=(-3,-246)-(61,-225) : <none>
+
+### Hideout / LivingRoom!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!/NotesPlane/Note_Raid_11/Text/Eng
+TEXT: The creatures, referred to as "demons", "imps", or "interlopers", emerging from the rift formed on the ruins of an old laboratory where convergence occurred, exhibit clearly discernible formations and rational patterns of movement.\n\n\nThey do not resemble animals, as Saharov previously claimed. I suggest dismissing his hypotheses and reexamining the issue. If these creatures do not understand our language, it does not mean they are mindless, driven solely by instincts. They clearly have a goal, and their excessive aggression and cruelty can be attributed to reactions to obstacles. Because for them, armed forces are precisely obstacles.\n
+BAR Cube rect=(430,-70)-(567,-50) : [of an old]
+BAR Cube (1) rect=(0,-107)-(567,-87) : [laboratory where convergence occurred,]
+BAR Cube (2) rect=(491,-281)-(601,-260) : [Saharov ]
+BAR Cube (3) rect=(161,-594)-(510,-574) : [Because for them, armed ]
+BAR Cube (4) rect=(2,-630)-(465,-610) : [forces are precisely obstacles.\n]
+
+### Hideout / LivingRoom!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!/NotesPlane/Note_Raid_9/Text/Eng
+TEXT: I don't know how things are going with Professor Yevglevsky, but my team has completely deviated from the initially set course. First, they merged two of our projects - "Perseus" and "Prometheus" - into one common project, which was strictly not recommended, even prohibited by me personally. These are unstable materials and substances, and it was unwise for the management to decide to combine them. I have absolutely no understanding of what the result might lead to. But that's on their conscience. As for me, I'm washing my hands of it.\n
+BAR Cube rect=(-1,-37)-(299,-17) : [Professor Yevglevsky]
+BAR Cube (1) rect=(224,-142)-(424,-122) : ["Perseus" and ]
+BAR Cube (2) rect=(1,-177)-(179,-157) : ["Prometheus" ]
+BAR Cube (3) rect=(163,-247)-(405,-226) : [by me personally]
+
+### Hideout / NewYearPostCard/Text/Eng
+TEXT: Research has shown that all the anomalous pumpkins appearing throughout the zone share the same genetic structure. This is no coincidence. Each of them is a duplicate of the same original object, although not always the same size. We still don't know how the duplication process occurs, but the rate at which new specimens are appearing is increasing. If this continues, the zone will soon be overrun by these pumpkins.\n\nOur hypotheses point to the existence of a source - the original fruit - which must be located and brought to the lab for destruction as quickly as possible. Otherwise, the consequences may be unpredictable.\n\nI urge all hunters to address this issue immediately. Time is running out.
+BAR Cube rect=(-1,-37)-(299,-17) : [anomalous pumpkins a]
+BAR Cube (1) rect=(224,-142)-(424,-122) : [plicate of th]
+BAR Cube (2) rect=(1,-177)-(179,-157) : [original obj]
+BAR Cube (3) rect=(163,-247)-(405,-226) : [ process occurs, ]
+
+### Hideout / LivingRoom!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!/NotesPlane/Note_Raid_15/Text/Eng
+TEXT: Leonid Petrovich, as a close friend and colleague, I advise you to gather your belongings immediately and leave the facility. As far away as possible, maybe even to another country.\n\n\nThe breakthrough made by you and your lab assistants will not go unnoticed. I know you were searching for entirely different matters, got lost, but eventually found something that has overturned our understanding of space as a whole, and perhaps even of time.\n\n\nManagement is conducting an investigation into your matter. They are interested in the catastrophe that occurred shortly after encountering the new life forms. They will ask you about many things. So, run, there's no need to delay.
+BAR Cube rect=(-2,-3)-(240,18) : [Leonid Petrovich]
+BAR Cube (1) rect=(-2,-560)-(156,-540) : [Management ]
+BAR Cube (2) rect=(206,-629)-(513,-609) : [the catastrophe that ]
+BAR Cube (3) rect=(-0,-665)-(587,-645) : [occurred shortly after encountering the ]
+BAR Cube (4) rect=(-0,-697)-(226,-677) : [new life forms. ]
+
+### Hideout / LivingRoom!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!/NotesPlane/Note_Raid_17/Text/Eng
+TEXT: To: N.A. Sakharov\n\n\nAfter the convergence incident and the first contact with extraterrestrial life forms, we lost access to the research complex. In fact, we are unable to conduct experiments in normal mode and process information in the previous volumes. The group of specialists you sent to collect field data disappeared a week ago. No new groups have been announced.\n\n\nMy laboratory is paralyzed, and the laboratory assistants are demoralized. There is no need to poison bright minds with fear, reflection, and idleness. I request that you restore order and establish a working process.\n\n\nRespectfully,\nA.P. Evglevsky
+BAR Cube rect=(50,-3)-(261,18) : [N.A. Sakharov\n]
+BAR Cube (1) rect=(1,-142)-(599,-122) : [first contact with extraterrestrial life ]
+BAR Cube (2) rect=(1,-175)-(91,-155) : [forms, ]
+BAR Cube (3) rect=(519,-106)-(576,-86) : [the ]
+BAR Cube (4) rect=(1,-837)-(194,-816) : [A.P. Evglevsk]
+
+### Hideout / LivingRoom!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!/NotesPlane/Note_Raid_11/Text/Rus
+TEXT: Существа, которых именуют "демонами", "чертями" или "пришельцами", выходящие из разлома, возникшего на руинах старой лаборатории, в которой случилась конвергенция, имеют четко прослеживаемые формации и разумные паттерны передвижения. \n\nОни не похожи на животных, как до этого утверждал Сахаров. Его гипотезы я предлагаю отмести и заново посмотреть на проблему. Если эти существа не понимают нашего языка, это не значит, что они лишены разума и ведомы одними лишь инстинктами. Очевидно, у них есть цель, а их чрезмерная агрессия и жестокость могут быть следствием реакции на преграды. Потому что вооруженные силы для них являются именно преградой.\n
+BAR Cube rect=(170,-72)-(586,-52) : <none>
+BAR Cube (1) rect=(-1,-108)-(187,-88) : <none>
+BAR Cube (2) rect=(142,-316)-(268,-296) : <none>
+BAR Cube (3) rect=(144,-595)-(556,-574) : <none>
+BAR Cube (4) rect=(-6,-629)-(511,-609) : <none>
+
+### Hideout / LivingRoom!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!/NotesPlane/Note_Raid_15/Text/Rus
+TEXT: Леонид Петрович, я как близкий друг и коллега советую вам немедленно собирать вещи и уезжать с объекта. Как можно дальше, может даже в другую страну. \n\nПрорыв, который совершили вы и ваши лаборанты, не останется без внимания. Знаю, что вы искали совсем иные материи, потерялись, но в итоге нашли то, что перевернуло наши представления о пространстве в целом, а может даже и о времени. \n\nРуководство ведет расследование по вашему вопросу. Их интересует катастрофа, произошедшая вскоре после столкновения с новыми формами жизни. С вас будут спрашивать за многое. Поэтому бегите, не стоит медлить.\n
+BAR Cube rect=(-2,-3)-(225,18) : <none>
+BAR Cube (1) rect=(-2,-455)-(172,-435) : <none>
+BAR Cube (2) rect=(-6,-525)-(555,-505) : <none>
+BAR Cube (3) rect=(-2,-558)-(542,-538) : <none>
+
+### Hideout / LivingRoom!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!/NotesPlane/Note_Raid_13/Text/Eng
+TEXT: All these events lead to a very dark, catastrophically dangerous scenario. If the Zone continues to expand, it's the end for us. If it remains "as is", sooner or later its new inhabitants will break out, and it's unknown how this breach will end.\n\n\nThe rig inside the old laboratory, the heart of Chernokamensk, is still operational. If someone manages to access it and uses it for their own purposes, we'll face yet another global catastrophe.\n
+BAR Cube rect=(133,-71)-(434,-51) : [continues to expand, ]
+BAR Cube (1) rect=(220,-315)-(569,-295) : [the old laboratory, the ]
+BAR Cube (2) rect=(-0,-349)-(348,-329) : [heart of Chernokamensk, ]
+
+### Hideout / LivingRoom!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!/NotesPlane/Note_Raid_20/Text/Rus
+TEXT: Фрагмент отчета 5300-009-837\n\nЭксперименты на установке дали первые плоды. Мы доказали правильность выдвинутой гипотезы. Истончение пространства было впервые официально задокументировано. Сахаров дал добро на переход к финальной стадии "Голубой Розы". В ходе опыта на экспериментальном стенде номер 4 отчетливо появилась "рябь", но все попытки стабилизировать ее, ровно как и проникнуть сквозь нее к успеху не привели. Джагуашвили уверен, что нужно повысить мощность установки, а Платонов - продолжительность испускаемых импульсов. Эти двое готовы глотки друг другу перегрызть, лишь бы доказать Сахарову свою правоту.  \n\nЕвглевский А.П.\n
+BAR Cube rect=(312,-3)-(358,18) : <none>
+BAR Cube (1) rect=(279,-213)-(392,-190) : <none>
+BAR Cube (2) rect=(3,-352)-(89,-328) : <none>
+BAR Cube (3) rect=(281,-423)-(450,-397) : <none>
+BAR Cube (4) rect=(-4,-492)-(121,-466) : <none>
+BAR Cube (5) rect=(-1,-596)-(124,-570) : <none>
+

@@ -15,8 +15,8 @@
 
 | 檔案 | 說明 |
 |---|---|
-| `CONVRGENCE-zh-TW-v1.2-Setup.exe` | 安裝程式，會自動找到遊戲，最簡單 |
-| `CONVRGENCE-zh-TW-v1.2.zip` | 手動解壓縮到遊戲資料夾 |
+| `CONVRGENCE-zh-TW-v1.3-Setup.exe` | 安裝程式，會自動找到遊戲，最簡單 |
+| `CONVRGENCE-zh-TW-v1.3.zip` | 手動解壓縮到遊戲資料夾 |
 
 目前版本對應遊戲 **2026-10-01** 更新後的版本。
 
@@ -24,7 +24,7 @@
 
 ### 方法一：安裝程式
 
-1. 執行 `CONVRGENCE-zh-TW-v1.2-Setup.exe`
+1. 執行 `CONVRGENCE-zh-TW-v1.3-Setup.exe`
 2. 確認「遊戲資料夾」是對的（通常會自動找到），按 **安裝中文化**
 3. 照常從 Steam 啟動遊戲
 
@@ -74,14 +74,17 @@
 ## 已知限制
 
 - 少數文字要等畫面重新顯示一次才會變成中文
+- 遊戲內建的中文字型沒有 `。、「」—…`，遊戲裡改用 `｡､｢｣－...` 顯示（外形一樣，比較窄）
 
 ## 給維護者
 
 ```
-translation/zh-TW/Text/   翻譯檔（XUnity.AutoTranslator 格式，原文=譯文）
+translation/zh-TW/Text/   翻譯檔（XUnity.AutoTranslator 格式，原文=譯文），標點照正常寫
 package/                  隨包附的開關腳本、說明檔、授權條文
+plugin/                   ConvrgenceZhFix 外掛原始碼（BepInEx 6 IL2CPP）
 installer/                EXE 安裝程式原始碼（C#，用 Windows 內建 csc 編譯）
 tools/                    打包、檢查工具
+docs/redactions_en.txt    機密文件每條黑條在英文版遮住的字（外掛量測模式的輸出）
 ```
 
 遊戲更新後的流程：
@@ -91,13 +94,33 @@ tools/                    打包、檢查工具
 python -X utf8 tools/check_keys.py --game "<遊戲資料夾>"
 # 2. 有哪些新文字還沒翻
 python -X utf8 tools/find_new_strings.py --game "<遊戲資料夾>"
-# 3. 翻譯後打包（需要遊戲資料夾裡已經裝好 BepInEx + XUnity.AutoTranslator）
+# 3. 翻譯時裝進遊戲看效果（會套用下面說的標點替換）
+python -X utf8 tools/install_translations.py --game "<遊戲資料夾>"
+# 4. 打包（需要遊戲資料夾裡已經裝好 BepInEx + XUnity.AutoTranslator，並啟動過一次）
+dotnet build plugin -c Release -p:GameDir="<遊戲資料夾>"
 python -X utf8 tools/build_package.py --game "<遊戲資料夾>"
 powershell -ExecutionPolicy Bypass -File installer/build.ps1
 ```
 
 翻譯檔的地雷：每一行**只能有一個沒跳脫的 `=`**，文字裡的 `=` 都要寫成 `\=`，否則整行會被靜默丟掉；
 `//` 會被當成註解截斷該行。`tools/check_keys.py` 會把讀不進去的行列出來。
+
+### 遊戲字型與外掛
+
+只改翻譯檔解決不了的顯示問題，都在 `plugin/` 的外掛裡處理：
+
+| 問題 | 原因 | 處理 |
+|---|---|---|
+| 機密文件的中文被黑條亂壓 | 黑條是文字底下的黑色 Cube，照英文排版手擺 | 文字是中文時關掉 Cube；譯文用 `<mark=#000000FF>` 塗黑對應的中文詞 |
+| 機密文件的中文黏成一團 | 打字機字型 `gtw` 的材質有 0.324 的黑外框，會套到中文備援字型上 | 中文時外框歸零、改成黑字，略加粗（`CjkDilate`） |
+| `。、「」—…` 變空白 | NotoSansSC/JP/KR 字型貼圖都沒收這幾個字 | 打包時把譯文換成 `｡､｢｣－...`（`tools/xua_text.py` 的 `DISPLAY_SUBSTITUTIONS`） |
+| `，！？：` 等全形符號 | 只有日文、韓文字型有 | 外掛把日韓字型接在中文字型後面當備援 |
+
+外掛靠掛在 `TMP_Text.text` 的設定上處理文字，不做每秒輪詢（整場景掃一次要 5–12 ms，在 VR 會掉幀），只在換場景時掃一次。
+
+設定檔 `BepInEx/config/zh-tw.convrgence.textfix.cfg` 的 `[Debug]` 有幾個測試用開關：
+`DumpRedactions`（英文模式下輸出黑條遮住的字）、`CheckGlyphs`（列出字型沒有的字）、
+`LoadScene`＋`ViewObject`（平面模式直接載入藏身處、把指定文件拿到鏡頭前截圖）。發佈前都要關掉。
 
 ## 使用的開源元件
 

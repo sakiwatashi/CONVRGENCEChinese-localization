@@ -48,6 +48,55 @@ def encode(text):
                 .replace("\r", "\\r").replace("\n", "\\n"))
 
 
+# None of the game's CJK font atlases (NotoSansSC/JP/KR) contain these characters, so
+# they would render as blanks. Their stand-ins are in the Japanese atlas (halfwidth forms)
+# or in every Latin font. Applied to translations only when installing / packaging, so the
+# source files keep proper punctuation. Measured in game with the plugin's CheckGlyphs.
+DISPLAY_SUBSTITUTIONS = {
+    "。": "｡",
+    "、": "､",
+    "「": "｢",
+    "」": "｣",
+    "—": "－",
+    "…": "...",
+}
+
+
+def for_display(value):
+    for a, b in DISPLAY_SUBSTITUTIONS.items():
+        value = value.replace(a, b)
+    return value
+
+
+def separator_index(line):
+    """Index of the '=' that separates key and value."""
+    esc = False
+    for i, c in enumerate(line):
+        if esc:
+            esc = False
+        elif c == "\\":
+            esc = True
+        elif c == "=":
+            return i
+    raise ValueError("no separator: %r" % line)
+
+
+def display_file_text(raw_text):
+    """Rewrite a translation file so its values only use characters the game can draw."""
+    nl = "\r\n" if "\r\n" in raw_text else "\n"
+    out = []
+    for line in raw_text.split(nl):
+        kv = parse_line(line) if line.strip() and not line.startswith("//") else None
+        if kv:
+            key, val = kv
+            new = for_display(val)
+            if new != val:
+                line = line[:separator_index(line) + 1] + encode(new)
+                assert parse_line(line) == (key, new), line
+        out.append(line)
+    return nl.join(out)
+
+
 def load(text_dir):
     """Yield (file name, line, key, value) for every translation entry.
 
